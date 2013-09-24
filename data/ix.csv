@@ -1,0 +1,299 @@
+name,city,country,lat,lng
+Angola Internet Exchange,,Angola
+Botswana Internet Exchange,,Botswana
+Kinshasa Internet Exchange,,Democratic Republic of Congo
+Middle East Internet Exchange,,Egypt
+Ghana Internet Exchange,,Ghana
+Ivory Coast Internet Exchange,,Ivory Coast
+Kenya Internet Exchange,,Kenya
+Lesotho Internet Exchange Point,,Lesotho
+Mozambique Internet Exchange,,Mozambique
+Internet Exchange Point of Nigeria,Lagos,Nigeria
+Ibadan Internet Exchange,Ibadan,Nigeria
+Rwanda Internet Exchange,Rwanda,Rwanda
+Cape Town Internet Exchange,Cape Town,South Africa
+Johannesburg Internet Exchange,Johannesburg,South Africa
+The Neutral Internet Exchange,Centurion,South Africa
+Sudanese Internet Exchange Point,,Sudan
+Tanzania Internet eXchange,Dar es Salaam,Tanzania
+Arusha Internet Exchange Point,Arusha,Tanzania
+Uganda Internet Exchange Point,,Uganda
+Lusaka IXP,Lusaka,Zambia
+Zimbabwe Internet Exchange,,Zimbabwe
+Bangladesh Internet Exchange,Dhaka,Bangladesh
+Cambodia Internet Exchange,,Cambodia
+Shanghai City Exchange,Shanghai,China
+Shanghai Internet Exchange Center,Shanghai,China
+TerraMark,,China
+Hong Kong Internet Exchange,,Hong Kong
+Equinix,,Hong Kong
+Access Internet eXchange,,Indonesia
+National Inter Connection Exchange,,Indonesia
+Indonesia Internet Exchange,,Indonesia
+Matrix Cable Internet Exchange,Jakarta,Indonesia
+Biznet Internet Exchange,Jakarta,Indonesia
+Napsindo International Internet Exchange,,Indonesia
+National Internet Exchange of India,,India
+Israeli Internet eXchange,,Israel
+Japan Network Access Point,,Japan
+Japan Network Access Point|JPNAP,Osaka,Japan
+Japan Network Access Point|JPNAP6,,Japan
+Japan Internet Exchange,,Japan
+DIX-IE,,Japan
+NSPIXP-6,,Japan
+Kazakhstan Internet Exchange,Almaty,Kazakhstan
+KINX (Korea Internet Exchange),,Korea
+Asia Internet Exchange Network Access Point Malaysia,,Malaysia
+Kuala Lumpur Internet Exchange,Kuala Lumpur,Malaysia
+Malaysia Internet Exchange,,Malaysia
+OpenMIX,Ulaanbaatar,Mongolia
+Nepal Internet Exchange,Kathmandu,Nepal
+Philippine Open Internet Exchange (PhOPENIX),,Philippines
+Philippine Internet Exchange,,Philippines
+Philippine Common Routing Exchange,,Philippines
+Singapore Open eXchange,,Singapore
+Singapore Internet Exchange,,Singapore
+SingTel Internet Exchange,,Singapore
+Sri Lanka Internet Exchange,,Sri Lanka
+Taiwan Network Access Point,,Taiwan
+TWIX,,Taiwan
+CAT Telecom National Internet Exchange,,Thailand
+TOT National Internet Exchange,,Thailand
+True Internet Gateway National Internet Exchange,,Thailand
+Advance Datanetwork Communication National Internet Exchange,,Thailand
+CS Loxinfo National Internet Exchange,,Thailand
+TT&T Global Network National Internet Exchange,,Thailand
+Jastel Network Internet Exchange,,Thailand
+NECTEC IIR Public Internet Exchange,,Thailand
+FPT Group,,Vietnam
+HANOITELECOM,,Vietnam
+SAIGONPOSTEL,,Vietnam
+VietNam Internet eXchange,,Vietnam
+VNPT,,Vietnam
+VP TELECOM,,Vietnam
+VIETTEL,,Vietnam
+Tashkent Internet Exchange,,Uzbekistan
+Yerevan,,Armenia
+Alpes Adria Internet Exchange,Klagenfurt,Austria
+Vienna Internet Exchange,Vienna,Austria
+Rheintal Internet Exchange,Vorarlberg,Austria
+Belgian National Internet eXchange,Brussels,Belgium
+Free Belgian Internet Exchange,Brussels,Belgium
+Bulgarian Internet eXchange,,Bulgaria
+Varna Internet Exchange,,Bulgaria
+Croatian Internet Exchange,,Croatia
+Cyprus Internet Exchange,,Cyprus
+Neutral Internet Exchange of the Czech Republic,Prague,Czech Republic
+Commercial Brno Internet Exchange,Brno,Czech Republic
+Danish Internet Exchange Point,Kongens Lyngby,Denmark
+Tallinn Internet Exchange,Tallinn,Estonia
+Tallinn Internet Exchange (2),Tallinn,Estonia
+Finnish Communication and Internet Exchange,Helsinki,Finland
+Tampere Region Exchange,Tampere,Finland
+France-IX,Paris,France
+French National Internet Exchange IPv6,Paris,France
+Metropolitan Area Ethernet,Paris,France
+Mix Internet Exchange and Transit,Paris,France
+Paris Internet Exchange,Paris,France
+Paris Operators for Universal Internet Exchange,Paris,France
+Service for French Internet Exchange,Paris,France
+Free Internet Exchange,Paris,France
+Paris NAP,Paris,France
+EuroGIX,Alsace,France
+Grenoble Network Initiative,Grenoble,France
+Lyon Internet Exchange,Lyon,France
+Marseille Internet eXchange,Marseille,France
+PhibIX,Saint-Étienne,France
+Alps Internet Exchange,Munich,Germany
+Berlin Commercial Internet Exchange,BCIX,Germany
+German Internet Exchange,DE-CIX,Germany
+International Internet Exchange,DataIX,Germany
+European Commercial Internet Exchange,ECIX,Germany
+Frankfurt Internet Exchange,Frankfurt,Germany
+Frankfurt Network Access Point,Frankfurt,Germany
+INXS Hamburg,Hamburg,Germany
+WorkIX Hamburg,Hamburg,Germany
+INXS Munich,Munich,Germany
+Kleyer Rebstöcker InternetExchange,Frankfurt,Germany
+MAE Frankfurt,Frankfurt,Germany
+Munich Commercial Internet Exchange,Munich,Germany
+Nürnberger Internet Exchange,Nuremberg,Germany
+Athens Internet Exchange,Athens,Greece
+Greek Internet Exchange,Athens,Greece
+Budapest Internet Exchange,Budapest,Hungary
+Reykjavik Internet Exchange|Reykjavík Internet Exchange,Reykjavík,Iceland
+Internet Neutral Exchange,Dublin,Ireland
+Friuli Venezia Giulia Internet Exchange,Udine,Italy
+Milan Internet Exchange,Milan,Italy
+Nautilus Mediterranean Exchange Point,,Italy
+Torino Piemonte Exchange Point,Turin,Italy
+Tuscany Internet Exchange,Florence,Italy
+Kosovo Internet Exchange,Pristina,Kosovo
+Latvian Internet Exchange,Riga,Latvia
+Santa Monica Internet Local Exchange,Riga,Latvia
+Rheintal Internet Exchange,Liechtenstein,Liechtenstein
+Lithuanian Internet Exchange,Vilnius,Lithuania
+Luxembourg Internet Exchange,Luxembourg,Luxembourg
+Luxembourg Commercial Internet Exchange,Luxembourg,Luxembourg
+Malta Internet Exchange,Msida,Malta
+Moldavian Internet Exchange,Chişinău,Moldova
+Amsterdam Internet Exchange,Amsterdam,Netherlands
+Netherlands Internet Exchange,Amsterdam,Netherlands
+Nederlands-Duitse Internet Exchange,Enschede,Netherlands
+Groningen Internet Exchange,Groningen,Netherlands
+Friese Internet Exchange,Leeuwarden,Netherlands
+XchangePoint Amsterdam IPP,Amsterdam,Netherlands
+Den Haag Internet Exchange,The Hague,Netherlands
+Rotterdam Internet eXchange,Rotterdam,Netherlands
+Norwegian Internet Exchange,Oslo,Norway
+Free Internet eXchange Oslo,Oslo,Norway
+Polish Internet Exchange,Warsaw,Poland
+Warsaw Internet Exchange,Warsaw,Poland
+GIGAbit Portuguese Internet Exchange,Lisbon,Portugal
+Balcan-IX,,Romania
+Romanian Network for Internet Exchange,Bucharest,Romania
+InterLAN Internet Exchange,Bucharest,Romania
+Tomis Internet eXchange,Constanța,Romania
+Chelyabinsk Peering Point Ural,Chelyabinsk,Russia
+DataIX,Saint Petersburg,Russia
+EKT-IX,Yekaterinburg,Russia
+Home-IX,,Russia
+PIRIX,Saint Petersburg,Russia
+IXNN,,Russia
+KRS-IX,,Russia
+KZN-IX,Kazan,Russia
+Moscow Internet Exchange,,Russia
+NSK-IX,Novosibirsk,Russia
+RND-IX,Rostov,Russia
+Samara Internet Exchange,Samara,Russia
+Saint Petersburg,,Russia
+Saint Petersburg Internet Exchange,Saint Petersburg,Russia
+SVAO-IX,Moscow,Russia
+VLV-IX,Vladivostok,Russia
+Serbian Open eXchange,Belgrade,Serbia
+Slovak Internet Exchange,Bratislava,Slovakia
+Slovenian Internet Exchange,Ljubljana,Slovenia
+Catalunya Neutral Internet Exchange,Barcelona,Spain
+Nap de las Americas,Terremark,Spain
+España Internet Exchange,Madrid,Spain
+Galicia Neutral Internet Exchange,Santiago de Compostela,Spain
+Punto Neutro Vasco,San Sebastián,Spain
+BOR-IX,Borås,Sweden
+IXOR,Malmö,Sweden
+Netnod Internet Exchange i Sverige,Stockholm,Sweden
+GIX,Göteborg,Sweden
+SOL-IX,Stockholm,Sweden
+STHIX,Stockholm,Sweden
+NorrNod,Umeå,Sweden
+CERN Internet Exchange Point,Geneva,Switzerland
+Swiss Internet Exchange,Zürich,Switzerland
+Telehouse Internet Exchange,Zürich,Switzerland
+Rheintal Internet Exchange,Rhine Valley,Switzerland
+Turkish Information Exchange,,Turkey
+Ukrainian Internet Exchange Network (UA-IX),Kiev,Ukraine
+Digital Telecom Internet Exchange,Kiev,Ukraine
+Donetsk Internet Exchange Point,Donetsk,Ukraine
+Kharkiv Internet Exchange,Kharkiv,Ukraine
+Kherson Internet Exchange,Kherson,Ukraine
+Odessa Internet Exchange,Odessa,Ukraine
+Zaporizhia Internet Exchange,Zaporizhia,Ukraine
+IXLeeds,Leeds,United Kingdom
+IX Manchester,Manchester,United Kingdom
+London Internet Exchange,London,United Kingdom
+London Internet Providers Exchange,London,United Kingdom
+London Network Access Point,London,United Kingdom
+Manchester Commercial Internet Exchange,Manchester,United Kingdom
+Manchester Network Access Point,Manchester,United Kingdom
+Meridian Gate Internet Exchange,London,United Kingdom
+Packet Exchange,London,United Kingdom
+Redbus Internet Exchange,London,United Kingdom
+xChangepoint,London,United Kingdom
+Beirut Internet Exchange,Beirut,Lebanon
+Israeli Internet Exchange,,Israel
+Cairo Internet Exchange,Cairo,Egypt
+Cairo Regional Internet Exchange,Cairo,Egypt
+Middle East Internet Exchange,,Egypt
+UAE Internet Exchange (UAE-IX),,United Arab Emirates
+Etisalat Smarthub IPX,,United Arab Emirates
+Equinix,Sydney,Australia
+PIPE Networks,Brisbane,Australia
+AUSIX,Melbourne,Australia
+Brisbane Internet Exchange,Brisbane,Australia
+Lismore Internet Exchange,Lismore,Australia
+MEL BONE,Melbourne,Australia
+Melbourne NAPette,Melbourne,Australia
+Newcastle Internet Exchange,Newcastle,Australia
+South Australian Internet Exchange,Adelaide,Australia
+Sydney Internet Exchange,Sydney,Australia
+Victorian Internet Exchange,Victoria,Australia
+Western Australian Internet Exchange,Perth,Australia
+Wollongong Internet Exchange,Wollongong,Australia
+ExchangeNET,,New Zealand
+BC Internet Exchange,,Canada
+Greater Toronto International Internet Exchange,,Canada
+Niagara Region International Internet Exchange,,Canada
+Ottawa Internet Exchange,Ottawa,Canada
+Quebec Internet Exchange,Quebec,Canada
+Toronto Internet Exchange,Toronto,Canada
+Montreal Internet Exchange,Montreal,Canada
+Winnipeg Internet Exchange,Winnipeg,Canada
+Calgary Internet Exchange,Calgary,Canada
+AADS (IXP),Chicago,United States
+Any2,Los Angeles,United States
+ArizonaIX,Phoenix,United States
+Telx Internet Exchange,,United States
+,Atlanta,United States
+Phoenix,Phoenix,United States
+Big APE,New York City,United States
+BNIIX,Buffalo,United States
+Boston Internet Exchange,Boston,United States
+C3IX,San Luis Obispo,United States
+ChIX,Chicago,United States
+GCIIX,Chicago,United States
+Hawaii Internet eXchange,Hawaii,United States
+LAIIX,Los Angeles,United States
+MAE-Central,,United States
+MAE-East,,United States
+MAE-West,,United States
+Midwest Internet Cooperative Exchange,Minneapolis,United States
+Northern Lights Local Exchange Point,Minneapolis,United States
+NAP of the Americas|NAP of the Americas (NOTA),Miami,United States
+Terremark,Culpeper,United States
+NWAX,Portland,United States
+NYIIX,New York,United States
+PHLIX,Philadelphia,United States
+SFMIX,San Francisco,United States
+Seattle Internet Exchange,Seattle,United States
+SOAX,Medford,United States
+Switch and Data,PAIX,United States
+Switch and Data's Peering And Internet eXchanges,Atlanta (Georgia),United States
+Switch and Data's Peering And Internet eXchanges,Dallas (Texas),United States
+Switch and Data's Peering And Internet eXchanges,Miami (Florida),United States
+Switch and Data's Peering And Internet eXchanges,New York City (New York),United States
+Switch and Data's Peering And Internet eXchanges,Palo Alto (California),United States
+Switch and Data's Peering And Internet eXchanges,San Jose (California),United States
+Switch and Data's Peering And Internet eXchanges,Seattle (Washington),United States
+Switch and Data's Peering And Internet eXchanges,Vienna (Virginia),United States
+Puerto Rico Bridge Initiative (PRBI),San Juan,Puerto Rico
+InteRed,,Panama
+CARIX,,Curaçao
+OCIX,,Sint Maarten
+Grenada Internet Exchange (GREX),,Grenada
+Dominica National Internet Exchange Point (DANIX),,Dominica
+CABASE,,Argentina
+PTT Metro,Belo Horizonte,Brazil
+PTT Metro,Brasília,Brazil
+PTT Metro,Curitiba,Brazil
+PTT Metro,Florianópolis,Brazil
+PTT Metro,Fortaleza,Brazil
+PTT Metro,Londrina,Brazil
+PTT Metro,Porto Alegre,Brazil
+PTT Metro,Rio de Janeiro,Brazil
+PTT Metro,Salvador, Bahia|Salvador,Brazil
+PTT Metro,São Paulo,Brazil
+NAP do Brasil,São Paulo,Brazil
+PTT Moebius,Rio de Janeiro,Brazil
+NAP.cl,,Chile
+NAP Colombia,,Colombia
+NAP Ecuador,,Ecuador
+NAP.pe,,Peru

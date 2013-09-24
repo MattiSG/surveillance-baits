@@ -1,0 +1,403 @@
+*[[Angola]]
+**[[Angola Internet Exchange]] (ANG-IX), [http://www.angola-ixp.ao/ Official website]
+*[[Botswana]]
+**[[Botswana Internet Exchange]] (BINX), [http://www.binx.org.bw/ Official website]
+*[[Democratic Republic of Congo]]
+**[[Kinshasa Internet Exchange]] (KINIX), [http://www.ispa-drc.cd/kinix.htm Official website]<ref>Map of [http://nsrc.org/AFRICA/ixp/ Internet eXchange Points in Africa], Network Startup Resource Center.</ref>
+* [[Egypt]]
+** [[Cairo Regional Internet Exchange|Cairo Internet Exchange]] (CR-IX), [http://www.caix.net.eg Official website]
+** [[Middle East Internet Exchange]] (MEIX), [http://www.gpxglobal.net/ Official website]
+* [[Ghana]]
+** [[Ghana Internet Exchange]] (GIX), [http://www.gixa.org.gh/ Official website]
+*[[Ivory Coast]]
+**[[Ivory Coast Internet Exchange]] (CIIXP), [http://www.ciixp.ci/ Official website]
+* [[Kenya]]
+** [[Kenya Internet Exchange]] (KIXP), [http://www.kixp.or.ke/ Official website]
+* [[Lesotho]]
+** Lesotho Internet Exchange Point (LIXP)
+* [[Mozambique]]
+** [[Mozambique Internet Exchange]] (MOZ-IX), [http://www.mozix.org.mz/english/index.htm Official website]
+* [[Nigeria]]
+** [[Internet Exchange Point of Nigeria]] (IXPN), [[Lagos]], [http://www.nixp.net/ Official website]
+** [[Ibadan Internet Exchange]] (IBIX), [[Ibadan]], [http://www.ib-ix.net/ Official website]
+* [[Rwanda]]
+** [[Rwanda Internet Exchange]] (RINEX), [[Rwanda]], [http://www.rinex.org.rw/ Official website]
+* South Africa
+** [[Cape Town Internet Exchange]] (CINX), [[Cape Town]], [http://ispa.org.za/inx/cinx-information/ Official website]
+** [[Johannesburg Internet Exchange]] (JINX), [[Johannesburg]], [http://www.ispa.org.za/inx/jinx-information Official website]
+** [[The Neutral Internet Exchange]] (NeutrINX), [[Centurion]], [http://neutrinx.org.za/ Official website]
+* [[Sudan]]
+** [[Sudanese Internet Exchange Point]] (SIXP), [http://www.sixp.sd Official website]
+* [[Tanzania]]
+** [[Tanzania Internet eXchange]] (TIX), [[Dar es Salaam]], [http://www.tix.or.tz/ Official website]
+** [[Arusha Internet Exchange Point]] (AIXP), [[Arusha]], [http://www.aixp.or.tz/ Official website]
+* [[Uganda]]
+** [[Uganda Internet Exchange Point]]  (UiXP), [http://www.uixp.co.ug/ Official website]
+* [[Zambia]]
+** [[Lusaka IXP]] (Lusaka IXP), [http://www.ispa.org.zm/ Official website]
+* [[Zimbabwe]]
+** [[Zimbabwe Internet Exchange]] (ZINX), [http://www.zispa.org.zw/zinx.htm Official website]
+* [[Bangladesh]]
+** [[Bangladesh Internet Exchange]],[http://www.bdix.net Official Site], (BDIX), [[Dhaka]]
+* [[Cambodia]]
+** [[Cambodia Internet Exchange]] HT Networks: HTN-CIX Phnom Penh, [http://www.htnetworks.com.kh/ Official website]
+* China
+** [[Shanghai City Exchange]], [[Shanghai]]
+** [[Shanghai Internet Exchange Center]], [[Shanghai]]
+** [[TerraMark]]
+* [[Hong Kong]]
+** [[Hong Kong Internet Exchange]] (HKIX), [http://www.hkix.net/ Official website]
+** [[Equinix]]
+* [[Indonesia]]
+**[[AIX|Access Internet eXchange]]
+** [[National Inter Connection Exchange]] (NICE)
+** [[Indonesia Internet Exchange]] (IIX), [http://www.iix.net.id Official website]
+** [[Matrix Cable Internet Exchange]] (MCIX), [[Jakarta]], [http://www.nap.net.id Official website]
+** [[Biznet Internet Exchange]] (BIX), [[Jakarta]], [http://www.biznetnetworks.com/ Official website]
+** [[Napsindo International Internet Exchange]] (NAIIX)
+* India
+** [[National Internet Exchange of India]] (IN-IX), [http://nixi.in/ Official website]
+* [[Israel]]
+** [[Israeli Internet eXchange]] (IIX), [http://www.isoc.org.il/iix/2x.html Official website]
+* Japan
+** [[Japan Network Access Point]] (JPNAP), [http://www.jpnap.net Official website]
+** [[Japan Network Access Point|JPNAP Osaka]], [http://www.jpnap.net/english/jpnap-osaka/index.html Official website]
+** [[Japan Network Access Point|JPNAP6]], [http://www.jpnap.net/english/press/2002/20020628e.html Official website]
+** [[Japan Internet Exchange]], (JPIX) [http://www.jpix.ad.jp/ Official website]
+** [[DIX-IE]] (NSPIXP2)
+** [[NSPIXP-6]]
+* [[Kazakhstan]]
+** [[Kazakhstan Internet Exchange]] (KAZ-IX), [[Almaty]], [http://www.kaz-ix.kz/web/parter.php Official website]
+* [[Korea]]
+** KINX(Korea Internet Exchange)
+* [[Malaysia]]
+** [[Asia Internet Exchange Network Access Point Malaysia]] (ARIX)
+** [[Kuala Lumpur Internet Exchange]], [[Kuala Lumpur]]
+** [[Malaysia Internet Exchange]] (MyIX) [http://www.myix.gov.my/ Official website]
+* [[Mongolia]]
+** [[OpenMIX]], [[Ulaanbaatar]]
+* [[Nepal]]
+** [[Nepal Internet Exchange]] (npIX), [[Kathmandu]]
+* [[Philippines]]
+** Philippine Open Internet Exchange (PhOPENIX) {{official website|http://www.phopenix.net}}
+** [[Philippine Internet Exchange]] (PhIX)
+** [[Philippine Common Routing Exchange]] (PHNET CORE)
+* [[Singapore]]
+** [[Singapore Open eXchange]] (SOX), [http://www.sox.net.sg Official website]
+** [[Singapore Internet Exchange]] (SGIX), [http://www.sgix.sg Official website]
+** [[SingTel Internet Exchange]] (STiX), [http://info.singtel.com/large-enterprise/products/internet/stix Official website]
+* [[Sri Lanka]]
+** [[Sri Lanka Internet Exchange]] ([[SLIX]])
+* [[Taiwan]]
+** [[Taiwan Network Access Point]] ([[TWNAP]])
+** [[TWIX]]
+* [[Thailand]]<ref>[http://internet.nectec.or.th NECTEC-IIR]</ref>
+** [[CAT Telecom National Internet Exchange]] by CAT (CAT-NIX) [http://www.cat.net.th/home_eng.html Official website]
+** [[TOT National Internet Exchange]] by TOT (TOT-NIX) [http://www.totisp.net/totnix/ Official website]
+** [[True Internet Gateway National Internet Exchange]] (TIG-NIX) [http://www.trueinternetgateway.com Official website]
+** [[Advance Datanetwork Communication National Internet Exchange]] (ADC-NIX) [http://www.adc.co.th Official website]
+** [[CS Loxinfo National Internet Exchange]] (CSL-NIX) [http://www.csloxinfo.com Official website]
+** [[TT&T Global Network National Internet Exchange]] (TTGN-NIX)
+** [[Jastel Network Internet Exchange]] (Jastel-IX) [http://www.jastel.co.th Official website]
+** [[NECTEC IIR Public Internet Exchange]] (NECTEC-PIE, Research Only)
+* [[Vietnam]]
+** [[FPT Group|FPT]]
+** [[HANOITELECOM]]
+** [[SAIGONPOSTEL]]
+** [[VietNam Internet eXchange]](VNIX) [http://www.vnnic.vn/vnix Official website]
+** [[VNPT]]
+** [[VP TELECOM]]
+** [[VIETTEL]]
+* [[Uzbekistan]]
+** [[Tashkent Internet Exchange]], (TAS-IX) [http://tas-ix.uz Official Site]
+* Armenia
+** Armenian Internet Traffic Exchange Foundation (ARMIX), [[Yerevan]], [http://www.armix.am Official website]
+* Austria
+** [[Alpes Adria Internet Exchange]] (AAIX), [[Klagenfurt]], [http://www.aaix.at Official website]
+** [[Vienna Internet Exchange]] (VIX), [[Vienna]]
+** [[Rheintal Internet Exchange]] (RheintalIX), [[Vorarlberg]], [http://www.rheintal-ix.net/ Official website]
+* Belgium
+** [[Belgian National Internet eXchange]] (BNIX), [[Brussels]]
+** [[Free Belgian Internet Exchange]] (FreeBIX), [[Brussels]]
+* [[Bulgaria]]
+** [[Bulgarian Internet eXchange]] (BIX), [http://www.bix.bg/ Official website].
+** [[Varna Internet Exchange]]
+* [[Croatia]]
+** [[Croatian Internet Exchange]] (CIX)
+* [[Cyprus]]
+** [[Cyprus Internet Exchange]] (CyIX)
+* [[Czech Republic]]
+** [[Neutral Internet Exchange of the Czech Republic]] (NIX.CZ), [[Prague]], [http://nix.cz/en/home Official website]
+** [[Commercial Brno Internet Exchange]] (CBIX), [[Brno]], [http://www.cbix.cz/en/ Official website]
+* Denmark
+** [[Danish Internet Exchange Point]] (DIX), [[Kongens Lyngby]]
+* [[Estonia]]
+** [[Tallinn Internet Exchange]] (TIX), [[Tallinn]], [http://tix.estpak.ee/ Official website]
+** [[Tallinn Internet Exchange (2)]] (TLLIX), [[Tallinn]], [http://www.tllix.net Official website]
+* Finland
+** [[Finnish Communication and Internet Exchange]] (FICIX), [[Helsinki]], [[Espoo]], [[Oulu]]
+** [[Tampere Region Exchange]] (TREX), [[Tampere]]
+* France
+** Paris metropolitan area
+*** France Internet Exchange ([[France-IX]]), Paris, [http://www.france-ix.fr/ Official website]
+*** [[French National Internet Exchange IPv6]] (FNIX6), Paris
+*** [[Metropolitan Area Ethernet]] (MAE), Paris
+*** [[Mix Internet Exchange and Transit]] (MIXT), Paris
+*** [[Paris Internet Exchange]] (PARIX), Paris
+*** [[Paris Operators for Universal Internet Exchange]] (POUIX), Paris
+*** [[Service for French Internet Exchange]] (SFINX), Paris
+*** [[Free Internet Exchange]] (FreeIX), Paris
+*** [[Paris NAP]] (PaNAP), Paris
+** Out of Paris
+*** [[EuroGIX]], [[Alsace]]
+*** [[Grenoble Network Initiative]] (GNI), [[Grenoble]]
+*** [[Lyon Internet Exchange]] (LyonIX), [[Lyon]], [http://www.lyonix.net/en Official website]
+*** [[Marseille Internet eXchange]] (MAIX), [[Marseille]]
+*** [[PhibIX]], [[Saint-Étienne]]
+* Germany
+** [[Alps Internet Exchange]] (ALP-IX), [[Munich]], [http://www.alp-ix.net/ Official website]
+** [[BCIX|Berlin Commercial Internet Exchange]] (BCIX), Berlin
+** [[DE-CIX|German Internet Exchange]] ([[DE-CIX]]), [[Frankfurt]], [http://www.decix.de/ Official website]
+** [[DataIX|International Internet Exchange]] ([[DataIX]]), [[Frankfurt]], [http://www.dataix.eu/ Official website]
+** [[European Commercial Internet Exchange]] ([[ECIX]])[http://www.ecix.de], [[Düsseldorf]][http://www.dus.ecix.de], Berlin [http://www.ber.ecix.de], [[Hamburg]][http://www.ham.ecix.de]
+** [[Frankfurt Internet Exchange]] (F-IX), [[Frankfurt]]
+** [[Frankfurt Network Access Point]] (fraNAP), [[Frankfurt]]
+** [[INXS Hamburg]] (INXS HBG), [[Hamburg]]
+** [[WorkIX Hamburg]] (WORKIX), [[Hamburg]]
+** [[INXS Munich]] (INXS MUC), [[Munich]], [http://www.inxs.de/ Official website]
+** [[Kleyer Rebstöcker InternetExchange]] (KleyReX), [[Frankfurt]]
+** [[MAE Frankfurt]], [[Frankfurt]]
+** [[Munich Commercial Internet Exchange]] (M-CIX), [[Munich]]
+** [[Nürnberger Internet Exchange]] (N-IX), [[Nuremberg]], [http://www.n-ix.de/ Official website]
+* Greece
+** [[Athens Internet Exchange]] (AIX), [[Athens]]
+** [[Greek Internet Exchange]] (GR-IX), [[Athens]]
+* Hungary
+** [[Budapest Internet Exchange]] (BIX), [[Budapest]] [http://www.bix.hu/ Official website]
+* [[Iceland]]
+** [[Reykjavik Internet Exchange|Reykjavík Internet Exchange]] (RIX), [[Reykjavík]]
+* Ireland
+** [[Internet Neutral Exchange]] (INEX), [[Dublin]]
+* Italy
+** [[Friuli Venezia Giulia Internet Exchange]] (FVG-IX), [[Udine]], [http://www.fvg-ix.it/ Official website]
+** [[Milan Internet Exchange]] (MIX), [[Milan]], [http://www.mix-it.net/ Official website]
+** [[Nautilus Mediterranean Exchange Point]] (NaMeX), Rome, [http://www.namex.it/ Official website]
+** [[Torino Piemonte Exchange Point]] (TOPIX), [[Turin]], [http://www.topix.it/ Official website]
+** [[Tuscany Internet Exchange]] (TIX), [[Florence]], [http://www.tix.it/ Official website]
+* [[Kosovo]]
+** [[Kosovo Internet Exchange]] (KOSIX), [[Pristina]], [http://www.kosix.net Official website]
+* [[Latvia]]
+** [[Latvian Internet Exchange]] (LIX), [[Riga]]
+** [[Santa Monica Internet Local Exchange]] (SMILE-IXP), [[Riga]]
+* [[Liechtenstein]]
+** [[Rheintal Internet Exchange]] (RheintalIX), [[Liechtenstein]]
+* [[Lithuania]]
+** [[Lithuanian Internet Exchange]] (LIPTAM), [[Vilnius]], [http://www.is.lt/ Official website]
+* [[Luxem bourg]]
+** [[Luxembourg Internet Exchange]] (LIX), [[Luxembourg]]
+** [[Luxembourg Commercial Internet Exchange]] (LU-CIX), [[Luxembourg]], [http://www.lu-cix.lu/ Official website]
+* [[Malta]]
+** [[Malta Internet Exchange]] (MIX Malta), [[Msida]]
+* [[Moldova]]
+** [[Moldavian Internet Exchange]] (MD-IX), [[Chişinău]]
+*Netherlands
+**[[Amsterdam Internet Exchange]] (AMS-IX), [[Amsterdam]]<ref name="directory">[https://prefix.pch.net/applications/ixpdir/ Internet Exchange Directory]. [[Packet Clearing House]]. Retrieved on 2008-09-17.</ref>
+**[[Netherlands Internet Exchange]] (NL-ix), [[Amsterdam]] and other locations<ref name="directory"/>
+**[[Nederlands-Duitse Internet Exchange]] (NDIX), [[Enschede]]<ref name="directory"/>
+**[[Groningen Internet Exchange]] (GN-IX), [[Groningen (city)|Groningen]]<ref name="directory"/>
+**[[Friese Internet Exchange]] (FR-IX), [[Leeuwarden]]<ref name="directory"/>
+**[[XchangePoint Amsterdam IPP]], [[Amsterdam]]<ref name="directory"/>
+**[[Den Haag Internet Exchange]], [[The Hague]]<ref name="directory"/> (defunct)
+**[[Rotterdam Internet eXchange]] (R-iX), [[Rotterdam]]<ref name="directory"/>
+* Norway
+** [[Norwegian Internet Exchange]] (NIX), [[Oslo]]
+** [[Free Internet eXchange Oslo]] (FIXO), [[Oslo]]
+* Poland
+** [[Polish Internet Exchange]] (PL-IX), [[Warsaw]]
+** [[Warsaw Internet Exchange]] (WIX), [[Warsaw]]
+* Portugal
+** [[GIGAbit Portuguese Internet Exchange]] (GIGAPIX), [[Lisbon]] [http://www.gigapix.pt Official website]
+* [[Romania]]
+** Balcan-IX (Balcan-IX)
+** [[Romanian Network for Internet Exchange]] (RoNIX), [[Bucharest]]
+** [[Interlan|InterLAN Internet Exchange]] (InterLAN), [[Bucharest]] [http://www.interlan.ro/?lang=en&t=1 Official website]
+** [[Tomis Internet eXchange]] (TomIX), [[Constanța]] [http://www.tomix.ro/ Official website]
+*Russia
+** [[Chelyabinsk Peering Point Ural]], [[Chelyabinsk]], created around 2001 [http://forum.surnet.ru/viewtopic.php?t=788], stalled on around 2004 [http://www.chelyabinsk.ru/news/507.html]
+** [[DataIX]], [[Saint Petersburg]], [[Moscow]] [http://www.dataix.ru]
+** [[EKT-IX]], [[Yekaterinburg]], [http://www.ix.ru/ekt/network/traffic.html]
+** [[Home-IX]], Moscow [http://www.home-ix.ru/]
+** [[PIRIX]], [[Saint Petersburg]] [http://www.pirix.ru/]
+** [[IXNN]], Nizhniy Novgorod
+** [[KRS-IX]], Krasnoyarsk, [http://www.krs-ix.ru/]
+** [[KZN-IX]], [[Kazan]], [http://www.ix.ru/kzn/]
+** [[Moscow Internet Exchange]] (MSK-IX), Moscow
+** [[NSK-IX]], [[Novosibirsk]], [http://www.ix.ru/nsk/]
+** [[RND-IX]], [[Rostov]], [http://www.ix.ru/rnd/]
+** [[Samara Internet Exchange]] (SMR-IX), [[Samara, Russia|Samara]], [http://www.ix.ru/smr/]
+** [http://provider.energo.ru/prer/ww9.html North-West Internet Exchange] (NW-IX), [[Saint Petersburg]]
+** [[Saint Petersburg Internet Exchange]] (SPB-IX), [[Saint Petersburg]]
+** [[SVAO-IX]], Moscow [http://www.svao-ix.ru/]
+** [[VLV-IX]], [[Vladivostok, Russia]], [http://ix.ru/vlv/]
+* [[Serbia]]
+** [[Serbian Open eXchange]] (SOX), [[Belgrade]] [http://sox.rs/?id=News&lang=en]
+* [[Slovakia]]
+** [[Slovak Internet Exchange]] (SIX), [[Bratislava]]
+* [[Slovenia]]
+** [[Slovenian Internet Exchange]] (SIX), [[Ljubljana]] [http://www.arnes.si/izmenjava.htm]
+* Spain
+** [[Catalunya Neutral Internet Exchange]] (CATNIX), [[Barcelona]]
+** [[Nap de las Americas]] ([[Terremark]]), [[Madrid]]
+** [[España Internet Exchange]] (ESPANIX), [[Madrid]]
+** [[Galicia Neutral Internet Exchange]] (GALNIX), [[Santiago de Compostela]]
+** [[Punto Neutro Vasco]] (EuskoNIX), [[San Sebastián]]
+* Sweden
+** [http://www.bor-ix.net BOR-IX], [[Borås]]
+** [http://www.ixor.se IXOR], [[Malmö]]
+** [[Netnod Internet Exchange i Sverige]] (Netnod), [[Stockholm]], [[Göteborg]], [[Malmö]], [[Sundsvall]], [[Luleå]]
+** [http://www.gix.se GIX], [[Göteborg]]
+** [http://www.sol-ix.net SOL-IX], [[Stockholm]]
+** STHIX, [[Stockholm]]
+** [[NorrNod]], [[Umeå]]
+* Switzerland
+** [[CERN Internet Exchange Point]] (CIXP), [[Geneva]]
+** [[Swiss Internet Exchange]] (SWISSIX), [[Zürich]]
+** [[Telehouse Internet Exchange]] (TIX), [[Zürich]]
+** [[Rheintal Internet Exchange]] (RheintalIX), [[Rhine Valley]]
+* Turkey
+** [[Turkish Information Exchange]] (TURNET)
+* [[Ukraine]]
+** Ukrainian Internet Exchange Network (UA-IX) [http://www.ua-ix.net/ site], [[Kiev]]
+** [[Digital Telecom Internet Exchange]] (DTEL-IX) [http://dtel-ix.net/ site], [[Kiev]]
+** [[Donetsk Internet Exchange Point]] (EUNIC-IX) [http://www.ix.dn.ua// site], [[Donetsk]]
+** [[Kharkiv Internet Exchange]] (KH-IX) [http://www.kh-ix.net/ site], [[Kharkiv]]
+** [[Kherson Internet Exchange]] (IX.ks.ua) [http://www.ix.ks.ua/ site], [[Kherson]]
+** [[Odessa Internet Exchange]] (OD-IX) [http://od-ix.net/ site], [[Odessa]]
+** [[Zaporizhia Internet Exchange]] (ZPIX) [http://www.robtex.com/as/as30777.html site], [[Zaporizhia]]
+* United Kingdom
+** [[IXLeeds]] [http://ixleeds.net/ site], [[Leeds]]
+** [[IX Manchester]] [https://www.linx.net/ixmanchester/ site], [[Manchester]]
+** [[London Internet Exchange]] (LINX) [http://www.linx.net/ site], [[London]]
+** [[London Internet Providers Exchange]] (LIPEX) [http://www.lipex.net/ site], London
+** [[LONAP|London Network Access Point]] (LONAP) [http://www.lonap.net/ site], London
+** [[Manchester Commercial Internet Exchange]] (mcix) [http://www.mcix.co.uk/ site], Manchester
+** [[Manchester Network Access Point]] (MaNAP) [http://www.edge-ix.net/ site], Manchester
+** [[Meridian Gate Internet Exchange]] (MERIEX), London
+** [[Packet Exchange]], London [http://www.packetexchange.net/ Official website]
+** [[Redbus Internet Exchange]] (RBIEX), London
+** [[Sovereign House Exchange]] (SovEx), London (dead)
+** [[xChangepoint]], London (acquired by Packet Exchange)
+* [[Lebanon]]
+** [[Beirut Internet Exchange]] (BIX) [http://www.beirutix.net/ site]
+* [[Israel]]
+** [[Israeli Internet Exchange]] (IIX) [http://www.isoc.org.il/iix/ site]
+* [[Egypt]]
+** [[Cairo Internet Exchange]] (CAIX) <ref>[http://www.caix.net.eg/ Cairo Internet Exchange]</ref>
+** [[Cairo Regional Internet Exchange]] (CRIX)
+** [[Middle East Internet Exchange]] (MEIX)
+* [[United Arab Emirates]]
+** UAE Internet Exchange (UAE-IX) [http://www.uae-ix.net/ site] <ref>[http://www.ameinfo.com/sensational-start-uae-ix-internet-exchange-dubai-322199 Sensational start for the UAE-IX internet exchange in Dubai]</ref>
+** Etisalat Smarthub IPX [http://www.etisalat.ae/eportal/en/corporate/carriers-smarthub.html site]
+* Australia
+** [[Equinix]], [[Sydney]], [[Melbourne]], [[Brisbane]]
+** [[PIPE Networks]], [[Brisbane]], [[Sydney]], [[Melbourne]], [[Adelaide]], [[Hobart]], [[Canberra]]
+** [[AUSIX]], [[Melbourne]]
+** [[Brisbane Internet Exchange]] (BIX), [[Brisbane]] (dead)
+** [[Lismore Internet Exchange]] (LIX), [[Lismore, New South Wales|Lismore]]
+** [[MEL BONE]], [[Melbourne]] (dead)
+** [[Melbourne NAPette]], [[Melbourne]] (dead)
+** [[Newcastle Internet Exchange]] (NIX), [[Newcastle, New South Wales|Newcastle]] (dead)
+** [[South Australian Internet Exchange]] (SAIX), [[Adelaide, Australia|Adelaide]] (dead)
+** [[Sydney Internet Exchange]] (SIX), [[Sydney]] (dead)
+** [[Victorian Internet Exchange]] (VIX), [[Victoria (Australia)|Victoria]]
+** [[Western Australian Internet Exchange]] (WAIX), [[Perth, Western Australia|Perth]]
+** [[Wollongong Internet Exchange]] (WIX), [[Wollongong]] (dead)
+* New Zealand
+** [[ExchangeNET]], nationwide
+* Canada
+** [[BC Internet Exchange]] (BCIX) - BC<ref>[https://wiki.bc.net/atl-conf/display/BCIX/British+Columbia+Internet+Exchanges/ BCIX website]</ref> [https://wiki.bc.net/atl-conf/display/BCIX/British+Columbia+Internet+Exchanges/ site]
+** [[Greater Toronto International Internet Exchange]] (GTIIX) - Toronto<ref>[http://www.gtiix.net/ GTIIX website]</ref>
+** [[Niagara Region International Internet Exchange]] (NRIIX) - Niagara Region<ref>[http://www.nriix.net/ NRIIX website]</ref>
+** [[Ottawa Internet Exchange]] (OttIX)<ref>[http://www.ottix.net/ OttIX website]</ref>
+** [[Quebec Internet Exchange]] (QIX)<ref>[http://www.risq.qc.ca/reseau/qix QIX official website]</ref>
+** [[Peer1 Exchange]] (PIX), [http://www.peer1.com/infrastructure/pix Official website] - Available in PEER 1's Vancouver, Toronto and Montreal data centers<ref>[http://www.peer1.com/infrastructure/pix PIX website]</ref>
+** [[Toronto Internet Exchange]] (TorIX)<ref>[http://www.torix.net/ TorIX website]</ref> - Canada's Largest Public Internet Exchange
+** [[Montreal Internet Exchange]] - To be launched in May 2013
+** [[Winnipeg Internet Exchange]] (WPGIX)<ref>[http://wpgix.net/ WPGIX official website]</ref>
+** [[YYCIX Internet Exchange Community Ltd|Calgary Internet Exchange]] (YYCIX)<ref>[http://yycix.ca/ YYCIX website]</ref>
+* United States
+** [[AADS (IXP)|AADS]] - [[AT&T]] [[Network access point|NAP]] [[Chicago, Illinois]]
+** [[Any2]] - Any2 Exchange - Los Angeles, One Wilshire Building
+** [[ArizonaIX]] - i/o Datacenter, Phoenix, Arizona
+** TIE - [[Telx Internet Exchange]]
+***[[Atlanta]]
+***[[Phoenix, Arizona|Phoenix]]
+** [[Big APE]] - Big Apple Peering Exchange [[New York City, New York]] - [[60 Hudson Street]]<ref>[http://www.datacentermap.com/ixps.html Internet Exchange Point Map]</ref>
+** [[BNIIX]] - Buffalo Niagara International Internet Exchange [[Buffalo, New York]]<ref>[http://www.bniix.net/ BNIIX website]</ref>
+** [[Boston Internet Exchange]] (BOSIX)<ref>[http://markleygroup.com/Peering/ BOSIX website]</ref> - Boston's Largest Internet Exchange
+** [[C3IX]] - California Central Coast Internet Exchange - [[Digital West]], [[San Luis Obispo, California]]
+** [[ChIX]] - Chicago Internet eXchange - [[R.R. Donnelley and Sons Co. Calumet Plant|350 East Cermak Road]]
+** [[Equinix|Equinix Internet Exchanges]]
+** [[GCIIX]] - Greater Chicago International Internet Exchange  [[Chicago, IL]] - 350 East Cermak Road<ref>[http://www.gciix.net/ GCIIX website]</ref>
+** HIX - Hawaii Internet eXchange
+** [[LAIIX]] - Los Angeles International Internet eXchange
+** [[MAE-Central]]
+** [[MAE-East]]
+** [[MAE-West]]
+** [[Midwest Internet Cooperative Exchange]]<ref>[http://www.micemn.net/ MICE website]</ref> (MICE) - [[Minneapolis, Minnesota]], [[511 Building (Minneapolis)|511 Building]]
+** [[Northern Lights Local Exchange Point]] (NLLXP) - [[Minneapolis, Minnesota]] - 90 Church Street
+** [[NAP of the Americas|NAP of the Americas (NOTA)]] - [[Terremark]] - [[Miami, Florida]]
+** NAP of the Capital Region - [[Terremark]] - [[Culpeper, Virginia]]
+** [[NWAX]] - Portland, [http://www.nwax.net Site]
+** [[NYIIX]] - New York - [[60 Hudson Street]], [[111 Eighth Avenue]], 25 Broadway
+** [[PHLIX]] - Philadelphia - 401 N Broad Street [http://phlix.net/ Site]
+** [[SFMIX]] - San Francisco
+** [[Seattle Internet Exchange|SIX]] - Seattle
+** [[SOAX]] - Medford, Oregon, [http://www.soax.org Site]
+** [[Switch and Data]]'s Peering And Internet eXchanges ([[PAIX]])
+*** [[Atlanta, Georgia]]
+*** [[Dallas, Texas]]
+*** [[Miami, Florida]]
+*** [[New York City, New York]]
+*** [[Palo Alto, California]]
+*** [[San Jose, California]]
+*** [[Seattle, Washington]]
+*** [[Vienna, Virginia]]
+** [[Voice Peering Fabric]] - distributed IXP for the exchange of VoIP traffic
+* [[Puerto Rico]]
+** [[Puerto Rico Bridge Initiative (PRBI)]] - Critical Hub Networks - San Juan, Puerto Rico
+* [[Panama]]
+** [[InteRed]][https://archive.psg.com/970810.intered/, Presentation]
+* [[Curaçao]]
+** [http://www.cari-ix.net CARIX]
+* [[Sint Maarten]]
+** [http://www.ocix.net OCIX]
+* [[Grenada]]
+** Grenada Internet Exchange (GREX), Official website <ref>[http://ixgd.wordpress.com GREX website]</ref>
+* [[British Virgin Islands]]
+* [[Dominica]]
+** Dominica National Internet Exchange Point (DANIX)
+* [[Argentina]]
+** [[CABASE]] - [http://www.cabase.org.ar/wordpress/naps-en-funcionamiento/ IPX Argentina Group]
+* Brazil
+** [[PTT Metro]]
+*** [[Belo Horizonte]]
+*** [[Brasília]]
+*** [[Curitiba]]
+*** [[Florianópolis]]
+*** [[Fortaleza]]
+*** [[Londrina]]
+*** [[Porto Alegre]]
+*** [[Rio de Janeiro]]
+*** [[Salvador, Bahia|Salvador]]
+*** [[São Paulo]]
+**[[NAP do Brasil]] - [[Terremark]] - [[São Paulo]]
+**[http://ptt.moebius.com.br/PTT/ PTT Moebius] - [[Rio de Janeiro]]
+* [[Chile]]
+** [[NAP.cl]]
+* [[Colombia]]
+** [http://www.nap.com.co NAP Colombia]
+* [[Ecuador]]
+** [http://www.nap.ec NAP Ecuador]
+* [[Peru]]
+** [[NAP.pe]]
