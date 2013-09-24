@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>Google data centers</name>
+  <description><![CDATA[Locations of Google data centers around the world.]]></description>
+  <Style id="style3">
+    <IconStyle>
+      <Icon>
+        <href></href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style13">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style12">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style6">
+    <IconStyle>
+      <Icon>
+        <href></href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style10">
+    <IconStyle>
+      <Icon>
+        <href></href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style11">
+    <IconStyle>
+      <Icon>
+        <href></href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style8">
+    <IconStyle>
+      <Icon>
+        <href></href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style2">
+    <IconStyle>
+      <Icon>
+        <href></href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style1">
+    <IconStyle>
+      <Icon>
+        <href></href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style7">
+    <IconStyle>
+      <Icon>
+        <href></href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style5">
+    <IconStyle>
+      <Icon>
+        <href></href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style9">
+    <IconStyle>
+      <Icon>
+        <href></href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style4">
+    <IconStyle>
+      <Icon>
+        <href></href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Placemark>
+    <name>Berkeley County, SC</name>
+    <Snippet></Snippet>
+    <description><![CDATA[<br>]]></description>
+    <styleUrl>#style3</styleUrl>
+    <Point>
+      <coordinates>-80.046173,33.064358,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Lenoir, NC</name>
+    <Snippet></Snippet>
+    <description><![CDATA[<br>]]></description>
+    <styleUrl>#style13</styleUrl>
+    <Point>
+      <coordinates>-81.546394,35.900360,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Council Bluffs, IA</name>
+    <Snippet></Snippet>
+    <description><![CDATA[<br>]]></description>
+    <styleUrl>#style12</styleUrl>
+    <Point>
+      <coordinates>-95.866707,41.219807,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>The Dalles, OR</name>
+    <Snippet></Snippet>
+    <description><![CDATA[<br>]]></description>
+    <styleUrl>#style6</styleUrl>
+    <Point>
+      <coordinates>-121.200546,45.630409,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Mayes County, OK</name>
+    <Snippet></Snippet>
+    <description><![CDATA[<br>]]></description>
+    <styleUrl>#style10</styleUrl>
+    <Point>
+      <coordinates>-95.332970,36.244976,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Douglas County, GA</name>
+    <Snippet></Snippet>
+    <description><![CDATA[<br>]]></description>
+    <styleUrl>#style11</styleUrl>
+    <Point>
+      <coordinates>-84.583534,33.747849,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>St. Ghislain, Belgium</name>
+    <Snippet></Snippet>
+    <description><![CDATA[<br>]]></description>
+    <styleUrl>#style8</styleUrl>
+    <Point>
+      <coordinates>3.834520,50.484318,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Tseung Kwan O, Hong Kong</name>
+    <Snippet></Snippet>
+    <description><![CDATA[<br>]]></description>
+    <styleUrl>#style2</styleUrl>
+    <Point>
+      <coordinates>114.271744,22.278910,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Jurong West, Singapore</name>
+    <Snippet></Snippet>
+    <description><![CDATA[<br>]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Point>
+      <coordinates>103.707588,1.352607,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Changhua County, Taiwan</name>
+    <Snippet></Snippet>
+    <description><![CDATA[<br>]]></description>
+    <styleUrl>#style7</styleUrl>
+    <Point>
+      <coordinates>120.453049,24.133162,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Hamina, Finland</name>
+    <Snippet></Snippet>
+    <description><![CDATA[<br>]]></description>
+    <styleUrl>#style5</styleUrl>
+    <Point>
+      <coordinates>27.120745,60.549461,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Quilicura, Chile</name>
+    <Snippet></Snippet>
+    <description><![CDATA[<br>]]></description>
+    <styleUrl>#style9</styleUrl>
+    <Point>
+      <coordinates>-70.750000,-33.366669,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Dublin, Ireland</name>
+    <Snippet></Snippet>
+    <description><![CDATA[<br>]]></description>
+    <styleUrl>#style4</styleUrl>
+    <Point>
+      <coordinates>-6.260082,53.349442,0.000000</coordinates>
+    </Point>
+  </Placemark>
+</Document>
+</kml>

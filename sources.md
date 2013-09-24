@@ -2,6 +2,8 @@ Data
 ----
 
 - EPassport usage: [Wikipedia](https://en.wikipedia.org/wiki/File:Map_of_countries_with_biometric_passports.svg) (extracted from SVG-encoded data)
+- Google datacenters: [Google](http://www.google.com/about/datacenters/inside/locations/)
+- FaceBook datacenters: Colm Doyle, mentor at #H4yR, FB engineer
 
 Images
 ------
