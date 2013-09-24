@@ -1,0 +1,13 @@
+.biometric {
+	background-color: #ffd4c9;
+	fill: #ffd4c9;
+}
+
+.colorKey {
+	width: 1em;
+	height: 1em;
+	border: 1px solid black;
+	float: left;
+	margin-right: .5em;
+	margin-top: 0.1em;
+}

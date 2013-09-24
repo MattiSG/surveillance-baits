@@ -8,6 +8,8 @@
 		<meta name="description" content="">
 		<meta name="author" content="Matti Schneider">
 
+		<link rel="stylesheet" type="text/css" href="css/main.css"/>
+
 		<script src="js/lib/d3.js" language="javascript" type="text/javascript"></script>
 	</head>
 
@@ -2671,6 +2673,14 @@
 			</defs>
 		</svg>
 
+		<section id="legend">
+			<article>
+				<div class="biometric colorKey" role="image"></div>
+				<h3>Biometric passports</h3>
+				<p>Countries that deliver [biometric passports](https://en.wikipedia.org/wiki/Biometric_passport) for their citizens collect face scans, fingerprints and / or iris scans. That data is thus available to the administration.</p>
+			</article>
+		</section>
+
 		<footer>
 		</footer>
 
@@ -2678,7 +2688,7 @@
 		//<![CDATA[
 			var biometricCountries = ['ae', 'al', 'ar', 'at', 'au', 'ba', 'be', 'bg', 'br', 'bw', 'by', 'ca', 'cf', 'ch', 'ci', 'cn', 'cnx', 'cy', 'cz', 'de', 'dk', 'do', 'dz', 'ee', 'es', 'fi', 'fr', 'fx', 'gb', 'ge', 'gf', 'gl', 'gr', 'hr', 'hu', 'id', 'ie', 'im', 'ir', 'is', 'it', 'kz', 'lt', 'lu', 'lv', 'ma', 'md', 'me', 'mk', 'mr', 'mt', 'my', 'ng', 'nl', 'no', 'nz', 'pl', 'pt', 'qa', 're', 'ro', 'rs', 'ru', 'sa', 'se', 'sg', 'si', 'sk', 'so', 'tg', 'th', 'us', 'uz', 've'];
 
-			d3.select('svg').selectAll('.' + biometricCountries.join(', .')).style('fill', '#ffd4c9');
+			d3.select('svg').selectAll('.' + biometricCountries.join(', .')).attr('class', 'biometric');
 		//]]>
 		</script>
 	</body>
