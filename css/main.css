@@ -44,11 +44,14 @@ footer article {
 	fill: #ffd4c9;
 }
 
-.colorKey {
-	width: 1em;
-	height: 1em;
-	border: 1px solid black;
+.colorKey, .key {
 	float: left;
 	margin-right: .5em;
 	margin-top: .4em;
+}
+
+.colorKey {
+	border: 1px solid black;
+	width: 1em;
+	height: 1em;
 }

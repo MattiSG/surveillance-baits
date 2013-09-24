@@ -34,10 +34,16 @@
 
 
 		<section id="legend">
-			<article>
+			<!-- <article>
 				<div class="biometric colorKey" role="image"></div>
 				<h3>Biometric passports</h3>
 				<p>Countries that deliver <a href="https://en.wikipedia.org/wiki/Biometric_passport" target="_blank">biometric passports</a> for their citizens collect face scans, fingerprints and/or iris scans. That data is thus available to the administration.</p>
+			</article> -->
+
+			<article>
+				<img class="key" src="http://cdn.leafletjs.com/leaflet-0.6.4/images/marker-icon.png"></div>
+				<h3>Internet Exchange Points</h3>
+				<p><a href="https://en.wikipedia.org/wiki/Internet_exchange_point" target="_blank">Internet exchange points</a> (IX) are critical physical infrastructure through which international internet communications transit. For a country willing to wiretap such data, having IX on its ground is a great <a href="http://rt.com/news/uk-germany-wiretapping-criticism-201/" class="example">surveillance opportunity</a>.</p>
 			</article>
 		</section>
 
@@ -66,7 +72,7 @@
 				onEachFeature: function(feature, layer) {
 					var legend = '<h3>Internet Exchange point</h3>'
 								 + '<h4>' + feature.properties.name + ' (' + feature.properties.city + ')</h4>'
-								 + '<p>Internet Exchange points (IX) are critical nodes in the Internet infrastructure. The amounts of data that transit through them give the countries in which they are built impressive wiretapping abilities.</p>';
+								 + '<p>Internet Exchange points (IX) are critical nodes in the Internet infrastructure. The amounts of data that transit through them give the countries in which they are built large wiretapping abilities.</p>';
 
 					layer.bindPopup(legend);
 				}
