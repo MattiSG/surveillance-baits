@@ -1,0 +1,295 @@
+name,city,country,lat,lng
+Angola Internet Exchange,Luanda,Angola,-8.8383281,13.3356272
+Botswana Internet Exchange,Gaborone,Botswana,-24.555833,25.918889
+Middle East Internet Exchange,Cairo,Egypt,30.0444196,31.2357116
+Ghana Internet Exchange,Accra,Ghana,5.5557169,-0.196306
+Kenya Internet Exchange,Nairobi,Kenya,-1.2920659,36.8219462
+Lesotho Internet Exchange Point,Maseru,Lesotho,-29.308319,27.4916
+Mozambique Internet Exchange,Maputo,Mozambique,-25.9666667,32.5833333
+Sudanese Internet Exchange Point,Khartoum,Sudan,15.550101,32.532241
+Uganda Internet Exchange Point,Kampala,Uganda,0.2287596,32.5484025
+Zimbabwe Internet Exchange,Harare,Zimbabwe,-17.82922,31.053961
+Cambodia Internet Exchange,Phnom Penh,Cambodia,11.558831,104.917445
+TerraMark,Beijing,China,39.90403,116.407526
+Hong Kong Internet Exchange,Hong Kong,Hong Kong,22.396428,114.109497
+Equinix,Hong Kong,Hong Kong,22.396428,114.109497
+Access Internet eXchange,Jakarta,Indonesia,-6.211544,106.845172
+National Inter Connection Exchange,Jakarta,Indonesia,-6.211544,106.845172
+Indonesia Internet Exchange,Jakarta,Indonesia,-6.211544,106.845172
+Napsindo International Internet Exchange,Jakarta,Indonesia,-6.211544,106.845172
+National Internet Exchange of India,New Delhi,India,28.64197,77.2206
+Israeli Internet eXchange,Jerusalem,Israel,31.768319,35.21371
+Japan Network Access Point,Tokyo,Japan,35.6894875,139.6917064
+Japan Network Access Point|JPNAP6,Tokyo,Japan,35.6894875,139.6917064
+Japan Internet Exchange,Tokyo,Japan,35.6894875,139.6917064
+DIX-IE,Tokyo,Japan,35.6894875,139.6917064
+NSPIXP-6,Tokyo,Japan,35.6894875,139.6917064
+Asia Internet Exchange Network Access Point Malaysia,Kuala Lumpur,Malaysia,3.1525238,101.7110995
+Malaysia Internet Exchange,Kuala Lumpur,Malaysia,3.1525238,101.7110995
+Philippine Open Internet Exchange (PhOPENIX),Manila,Philippines,14.565137,120.988525
+Philippine Internet Exchange,Manila,Philippines,14.565137,120.988525
+Philippine Common Routing Exchange,Manila,Philippines,14.565137,120.988525
+Singapore Open eXchange,Singapur,Singapore,1.2800945,103.8509491
+Singapore Internet Exchange,Singapur,Singapore,1.2800945,103.8509491
+SingTel Internet Exchange,Singapur,Singapore,1.2800945,103.8509491
+Sri Lanka Internet Exchange,Colombo,Sri Lanka,6.9059931,79.8778522
+Taiwan Network Access Point,Taipei,Taiwan,25.1022189,121.5486178
+TWIX,Taipei,Taiwan,25.1022189,121.5486178
+CAT Telecom National Internet Exchange,Bangkok,Thailand,13.7234186,100.4762319
+TOT National Internet Exchange,Bangkok,Thailand,13.7234186,100.4762319
+True Internet Gateway National Internet Exchange,Bangkok,Thailand,13.7234186,100.4762319
+Advance Datanetwork Communication National Internet Exchange,Bangkok,Thailand,13.7234186,100.4762319
+CS Loxinfo National Internet Exchange,Bangkok,Thailand,13.7234186,100.4762319
+TT&T Global Network National Internet Exchange,Bangkok,Thailand,13.7234186,100.4762319
+Jastel Network Internet Exchange,Bangkok,Thailand,13.7234186,100.4762319
+NECTEC IIR Public Internet Exchange,Bangkok,Thailand,13.7234186,100.4762319
+FPT Group,Hanoi,Vietnam,21.0333333,105.85
+HANOITELECOM,Hanoi,Vietnam,21.0333333,105.85
+SAIGONPOSTEL,Hanoi,Vietnam,21.0333333,105.85
+VietNam Internet eXchange,Hanoi,Vietnam,21.0333333,105.85
+VNPT,Hanoi,Vietnam,21.0333333,105.85
+VP TELECOM,Hanoi,Vietnam,21.0333333,105.85
+VIETTEL,Hanoi,Vietnam,21.0333333,105.85
+Tashkent Internet Exchange,Tashkent,Uzbekistan,41.2666667,69.2166667
+Yerevan,Yerevan,Armenia,40.183333,44.516667
+Bulgarian Internet eXchange,Sofia,Bulgaria,42.6978388,23.3216697
+Varna Internet Exchange,Sofia,Bulgaria,42.6978388,23.3216697
+Croatian Internet Exchange,Zagreb,Croatia,45.8130293,15.9778949
+Cyprus Internet Exchange,Nicosia,Cyprus,35.1666667,33.3666667
+Nautilus Mediterranean Exchange Point,Rome,Italy,41.8929163,12.4825199
+Balcan-IX,Bucharest,Romania,44.4325,26.1038889
+Home-IX,Moscow,Russia,55.755826,37.6173
+IXNN,Moscow,Russia,55.755826,37.6173
+KRS-IX,Moscow,Russia,55.755826,37.6173
+Moscow Internet Exchange,Moscow,Russia,55.755826,37.6173
+Saint Petersburg,Moscow,Russia,55.755826,37.6173
+Turkish Information Exchange,Ankara,Turkey,39.885354,32.8553399
+Israeli Internet Exchange,Jerusalem,Israel,31.768319,35.21371
+Middle East Internet Exchange,Cairo,Egypt,30.0444196,31.2357116
+UAE Internet Exchange (UAE-IX),Abu Dhabi,United Arab Emirates,24.4666667,54.3666667
+Etisalat Smarthub IPX,Abu Dhabi,United Arab Emirates,24.4666667,54.3666667
+ExchangeNET,Wellington,New Zealand,-41.2864257,174.7762442
+BC Internet Exchange,Ottawa,Canada,45.3844939,-75.6180443
+Greater Toronto International Internet Exchange,Ottawa,Canada,45.3844939,-75.6180443
+Niagara Region International Internet Exchange,Ottawa,Canada,45.3844939,-75.6180443
+Telx Internet Exchange,Washington,United States,41.3014077,-91.6916417
+MAE-Central,Washington,United States,41.3014077,-91.6916417
+MAE-East,Washington,United States,41.3014077,-91.6916417
+MAE-West,Washington,United States,41.3014077,-91.6916417
+InteRed,Panama City,Panama,30.2298881,-85.888666
+OCIX,Philipsburg,Sint Maarten,18.030202,-63.045831
+Grenada Internet Exchange (GREX),St. George's,Grenada,32.382839,-64.675912
+Dominica National Internet Exchange Point (DANIX),Roseau,Dominica,15.337182,-61.392005
+CABASE,Buenos Aires,Argentina,-37.2017285,-59.8410697
+NAP.cl,Santiago,Chile,-33.4577558,-70.6573694
+NAP Colombia,Bogota,Colombia,4.5981,-74.07603
+NAP Ecuador,Quito,Ecuador,-0.1483275,-78.4453194
+NAP.pe,Lima,Peru,-12.0478158,-77.0622028
+Internet Exchange Point of Nigeria,Lagos,Nigeria,6.441158,3.417977
+Ibadan Internet Exchange,Ibadan,Nigeria,7.3584174,3.9750883
+Rwanda Internet Exchange,Rwanda,Rwanda,-1.940278,29.873888
+Cape Town Internet Exchange,Cape Town,South Africa,-33.9248685,18.4240553
+Johannesburg Internet Exchange,Johannesburg,South Africa,-26.2041028,28.0473051
+The Neutral Internet Exchange,Centurion,South Africa,-25.8544025,28.1879634
+Tanzania Internet eXchange,Dar es Salaam,Tanzania,-6.822921,39.269661
+Arusha Internet Exchange Point,Arusha,Tanzania,-3.365789,36.67445
+Lusaka IXP,Lusaka,Zambia,-15.4480423,28.3461948
+Bangladesh Internet Exchange,Dhaka,Bangladesh,23.709921,90.407143
+Shanghai City Exchange,Shanghai,China,31.230393,121.473704
+Shanghai Internet Exchange Center,Shanghai,China,31.230393,121.473704
+Matrix Cable Internet Exchange,Jakarta,Indonesia,-6.211544,106.845172
+Biznet Internet Exchange,Jakarta,Indonesia,-6.211544,106.845172
+Japan Network Access Point|JPNAP,Osaka,Japan,34.6533451,135.5119682
+Kazakhstan Internet Exchange,Almaty,Kazakhstan,43.255058,76.912628
+Kuala Lumpur Internet Exchange,Kuala Lumpur,Malaysia,3.1525238,101.7110995
+OpenMIX,Ulaanbaatar,Mongolia,47.921378,106.90554
+Nepal Internet Exchange,Kathmandu,Nepal,27.6820254,85.2727929
+Alpes Adria Internet Exchange,Klagenfurt,Austria,46.62794,14.30899
+Vienna Internet Exchange,Vienna,Austria,48.2081743,16.3738189
+Rheintal Internet Exchange,Vorarlberg,Austria,47.2497427,9.9797373
+Belgian National Internet eXchange,Brussels,Belgium,50.85,4.35
+Free Belgian Internet Exchange,Brussels,Belgium,50.85,4.35
+Neutral Internet Exchange of the Czech Republic,Prague,Czech Republic,50.0755381,14.4378005
+Commercial Brno Internet Exchange,Brno,Czech Republic,49.1950602,16.6068371
+Danish Internet Exchange Point,Kongens Lyngby,Denmark,55.8051662,12.4767788
+Tallinn Internet Exchange,Tallinn,Estonia,59.4387419,24.7716452
+Tallinn Internet Exchange (2),Tallinn,Estonia,59.4387419,24.7716452
+Finnish Communication and Internet Exchange,Helsinki,Finland,60.1733244,24.9410248
+Tampere Region Exchange,Tampere,Finland,61.4981508,23.7610254
+France-IX,Paris,France,48.856614,2.3522219
+French National Internet Exchange IPv6,Paris,France,48.856614,2.3522219
+Metropolitan Area Ethernet,Paris,France,48.856614,2.3522219
+Mix Internet Exchange and Transit,Paris,France,48.856614,2.3522219
+Paris Internet Exchange,Paris,France,48.856614,2.3522219
+Paris Operators for Universal Internet Exchange,Paris,France,48.856614,2.3522219
+Service for French Internet Exchange,Paris,France,48.856614,2.3522219
+Free Internet Exchange,Paris,France,48.856614,2.3522219
+Paris NAP,Paris,France,48.856614,2.3522219
+EuroGIX,Alsace,France,48.3181795,7.4416241
+Grenoble Network Initiative,Grenoble,France,45.1690841,5.7325434
+Lyon Internet Exchange,Lyon,France,45.7671686,4.8335373
+Marseille Internet eXchange,Marseille,France,43.436667,5.215
+PhibIX,Saint-Étienne,France,44.681478,6.018357
+Alps Internet Exchange,Munich,Germany,48.14642,11.56561
+Berlin Commercial Internet Exchange,BCIX,Germany,0,0
+German Internet Exchange,DE-CIX,Germany,48.3646359,10.0075915
+International Internet Exchange,DataIX,Germany,0,0
+European Commercial Internet Exchange,ECIX,Germany,48.3646359,10.0075915
+Frankfurt Internet Exchange,Frankfurt,Germany,50.1100866,8.6996846
+Frankfurt Network Access Point,Frankfurt,Germany,50.1100866,8.6996846
+INXS Hamburg,Hamburg,Germany,53.5510846,9.9936818
+WorkIX Hamburg,Hamburg,Germany,53.5510846,9.9936818
+INXS Munich,Munich,Germany,48.14642,11.56561
+Kleyer Rebstöcker InternetExchange,Frankfurt,Germany,50.1100866,8.6996846
+MAE Frankfurt,Frankfurt,Germany,50.1100866,8.6996846
+Munich Commercial Internet Exchange,Munich,Germany,48.14642,11.56561
+Nürnberger Internet Exchange,Nuremberg,Germany,49.4476332,11.080251
+Athens Internet Exchange,Athens,Greece,37.9837155,23.7293097
+Greek Internet Exchange,Athens,Greece,37.9837155,23.7293097
+Budapest Internet Exchange,Budapest,Hungary,47.497912,19.040235
+Reykjavik Internet Exchange|Reykjavík Internet Exchange,Reykjavík,Iceland,64.1526754,-21.9509196
+Internet Neutral Exchange,Dublin,Ireland,53.3498053,-6.2603097
+Friuli Venezia Giulia Internet Exchange,Udine,Italy,46.0710668,13.2345794
+Milan Internet Exchange,Milan,Italy,45.4654542,9.186516
+Torino Piemonte Exchange Point,Turin,Italy,45.070982,7.685676
+Tuscany Internet Exchange,Florence,Italy,43.7710332,11.2480006
+Kosovo Internet Exchange,Pristina,Kosovo,42.672421,21.164539
+Latvian Internet Exchange,Riga,Latvia,56.9508098,24.1163132
+Santa Monica Internet Local Exchange,Riga,Latvia,56.9508098,24.1163132
+Rheintal Internet Exchange,Liechtenstein,Liechtenstein,47.166,9.555373
+Lithuanian Internet Exchange,Vilnius,Lithuania,54.6871555,25.2796514
+Luxembourg Internet Exchange,Luxembourg,Luxembourg,49.611621,6.1319346
+Luxembourg Commercial Internet Exchange,Luxembourg,Luxembourg,49.611621,6.1319346
+Malta Internet Exchange,Msida,Malta,35.8977778,14.4894444
+Moldavian Internet Exchange,Chişinău,Moldova,47.026859,28.841551
+Amsterdam Internet Exchange,Amsterdam,Netherlands,52.3702157,4.8951679
+Netherlands Internet Exchange,Amsterdam,Netherlands,52.3702157,4.8951679
+Nederlands-Duitse Internet Exchange,Enschede,Netherlands,52.222363,6.890257
+Groningen Internet Exchange,Groningen,Netherlands,53.2193835,6.5665018
+Friese Internet Exchange,Leeuwarden,Netherlands,53.223301,5.7516999
+XchangePoint Amsterdam IPP,Amsterdam,Netherlands,52.3702157,4.8951679
+Den Haag Internet Exchange,The Hague,Netherlands,52.0899071,4.2806321
+Rotterdam Internet eXchange,Rotterdam,Netherlands,51.9226584,4.4791885
+Norwegian Internet Exchange,Oslo,Norway,59.9138688,10.7522454
+Free Internet eXchange Oslo,Oslo,Norway,59.9138688,10.7522454
+Polish Internet Exchange,Warsaw,Poland,52.2296756,21.0122287
+Warsaw Internet Exchange,Warsaw,Poland,52.2296756,21.0122287
+GIGAbit Portuguese Internet Exchange,Lisbon,Portugal,38.7252993,-9.1500364
+Romanian Network for Internet Exchange,Bucharest,Romania,44.4325,26.1038889
+InterLAN Internet Exchange,Bucharest,Romania,44.4325,26.1038889
+Tomis Internet eXchange,Constanța,Romania,44.1733333,28.6383333
+Chelyabinsk Peering Point Ural,Chelyabinsk,Russia,55.1745331,61.4266808
+DataIX,Saint Petersburg,Russia,59.9342802,30.3350986
+EKT-IX,Yekaterinburg,Russia,56.82593,60.605458
+PIRIX,Saint Petersburg,Russia,59.9342802,30.3350986
+KZN-IX,Kazan,Russia,55.6091711,49.2777402
+NSK-IX,Novosibirsk,Russia,55.0166667,82.9333333
+RND-IX,Rostov,Russia,47.2166667,39.7
+Samara Internet Exchange,Samara,Russia,53.2333333,50.1666667
+Saint Petersburg Internet Exchange,Saint Petersburg,Russia,59.9342802,30.3350986
+SVAO-IX,Moscow,Russia,55.755826,37.6173
+VLV-IX,Vladivostok,Russia,43.3991667,132.1513889
+Serbian Open eXchange,Belgrade,Serbia,44.8205556,20.4622222
+Slovak Internet Exchange,Bratislava,Slovakia,48.1458992,17.1071342
+Slovenian Internet Exchange,Ljubljana,Slovenia,46.0564509,14.5080702
+Catalunya Neutral Internet Exchange,Barcelona,Spain,41.3850639,2.1734035
+Nap de las Americas,Terremark,Spain,0,0
+España Internet Exchange,Madrid,Spain,40.4167754,-3.7037902
+Galicia Neutral Internet Exchange,Santiago de Compostela,Spain,42.870842,-8.544697
+Punto Neutro Vasco,San Sebastián,Spain,43.3182663,-1.9806448
+BOR-IX,Borås,Sweden,57.721035,12.939819
+IXOR,Malmö,Sweden,55.604981,13.003822
+Netnod Internet Exchange i Sverige,Stockholm,Sweden,59.32893,18.06491
+GIX,Göteborg,Sweden,57.70887,11.97456
+SOL-IX,Stockholm,Sweden,59.32893,18.06491
+STHIX,Stockholm,Sweden,59.32893,18.06491
+NorrNod,Umeå,Sweden,63.8258471,20.2630354
+CERN Internet Exchange Point,Geneva,Switzerland,46.1983922,6.1422961
+Swiss Internet Exchange,Zürich,Switzerland,47.3686498,8.5391825
+Telehouse Internet Exchange,Zürich,Switzerland,47.3686498,8.5391825
+Rheintal Internet Exchange,Rhine Valley,Switzerland,0,0
+Ukrainian Internet Exchange Network (UA-IX),Kiev,Ukraine,50.4501,30.5234
+Digital Telecom Internet Exchange,Kiev,Ukraine,50.4501,30.5234
+Donetsk Internet Exchange Point,Donetsk,Ukraine,48.002141,37.696233
+Kharkiv Internet Exchange,Kharkiv,Ukraine,49.9935,36.230383
+Kherson Internet Exchange,Kherson,Ukraine,46.635417,32.616867
+Odessa Internet Exchange,Odessa,Ukraine,46.484583,30.7326
+Zaporizhia Internet Exchange,Zaporizhia,Ukraine,47.8388,35.139567
+IXLeeds,Leeds,United Kingdom,53.801279,-1.548567
+IX Manchester,Manchester,United Kingdom,53.479324,-2.2484851
+London Internet Exchange,London,United Kingdom,51.4894138,-0.1230915
+London Internet Providers Exchange,London,United Kingdom,51.4894138,-0.1230915
+London Network Access Point,London,United Kingdom,51.4894138,-0.1230915
+Manchester Commercial Internet Exchange,Manchester,United Kingdom,53.479324,-2.2484851
+Manchester Network Access Point,Manchester,United Kingdom,53.479324,-2.2484851
+Meridian Gate Internet Exchange,London,United Kingdom,51.4894138,-0.1230915
+Packet Exchange,London,United Kingdom,51.4894138,-0.1230915
+Redbus Internet Exchange,London,United Kingdom,51.4894138,-0.1230915
+xChangepoint,London,United Kingdom,51.4894138,-0.1230915
+Beirut Internet Exchange,Beirut,Lebanon,33.8886289,35.4954794
+Cairo Internet Exchange,Cairo,Egypt,30.0444196,31.2357116
+Cairo Regional Internet Exchange,Cairo,Egypt,30.0444196,31.2357116
+Equinix,Sydney,Australia,-33.873651,151.2068896
+PIPE Networks,Brisbane,Australia,-27.4989292,152.9170055
+AUSIX,Melbourne,Australia,-37.8211528,144.9583094
+Brisbane Internet Exchange,Brisbane,Australia,-27.4989292,152.9170055
+Lismore Internet Exchange,Lismore,Australia,-28.8041813,153.2834738
+MEL BONE,Melbourne,Australia,-37.8211528,144.9583094
+Melbourne NAPette,Melbourne,Australia,-37.8211528,144.9583094
+Newcastle Internet Exchange,Newcastle,Australia,-32.9267275,151.7844433
+South Australian Internet Exchange,Adelaide,Australia,-34.920603,138.6062277
+Sydney Internet Exchange,Sydney,Australia,-33.873651,151.2068896
+Victorian Internet Exchange,Victoria,Australia,-37.4713077,144.7851531
+Western Australian Internet Exchange,Perth,Australia,-31.9510908,115.8599254
+Wollongong Internet Exchange,Wollongong,Australia,-34.40624,150.8779
+Ottawa Internet Exchange,Ottawa,Canada,45.3844939,-75.6180443
+Quebec Internet Exchange,Quebec,Canada,46.8032826,-71.242796
+Toronto Internet Exchange,Toronto,Canada,43.646667,-79.376121
+Montreal Internet Exchange,Montreal,Canada,45.5086699,-73.5539925
+Winnipeg Internet Exchange,Winnipeg,Canada,49.890967,-97.153381
+Calgary Internet Exchange,Calgary,Canada,51.0453246,-114.0581012
+AADS (IXP),Chicago,United States,41.8795848,-87.6237123
+Any2,Los Angeles,United States,34.0572825,-118.3759053
+ArizonaIX,Phoenix,United States,33.4535269,-112.0730317
+,Atlanta,United States,33.760757,-84.399097
+Phoenix,Phoenix,United States,33.4535269,-112.0730317
+Big APE,New York City,United States,40.729396,-74.001306
+BNIIX,Buffalo,United States,41.4555873,-90.7209746
+Boston Internet Exchange,Boston,United States,42.3488895,-71.0740024
+C3IX,San Luis Obispo,United States,35.2850338,-120.6533351
+ChIX,Chicago,United States,41.8795848,-87.6237123
+GCIIX,Chicago,United States,41.8795848,-87.6237123
+Hawaii Internet eXchange,Hawaii,United States,19.8967662,-155.5827818
+LAIIX,Los Angeles,United States,34.0572825,-118.3759053
+Midwest Internet Cooperative Exchange,Minneapolis,United States,44.958203,-93.2740227
+Northern Lights Local Exchange Point,Minneapolis,United States,44.958203,-93.2740227
+NAP of the Americas|NAP of the Americas (NOTA),Miami,United States,25.796549,-80.275614
+Terremark,Culpeper,United States,38.4723897,-77.9932308
+NWAX,Portland,United States,45.5091312,-122.6836598
+NYIIX,New York,United States,40.7143528,-74.0059731
+PHLIX,Philadelphia,United States,40.087583,-74.965169
+SFMIX,San Francisco,United States,37.7550372,-122.4264417
+Seattle Internet Exchange,Seattle,United States,47.6499703,-122.3322085
+SOAX,Medford,United States,42.3261137,-122.871976
+Switch and Data,PAIX,United States,0,0
+Switch and Data's Peering And Internet eXchanges,Atlanta (Georgia),United States,33.760757,-84.399097
+Switch and Data's Peering And Internet eXchanges,Dallas (Texas),United States,32.7871328,-96.7959535
+Switch and Data's Peering And Internet eXchanges,Miami (Florida),United States,25.796549,-80.275614
+Switch and Data's Peering And Internet eXchanges,New York City (New York),United States,40.729396,-74.001306
+Switch and Data's Peering And Internet eXchanges,Palo Alto (California),United States,37.4414992,-122.1583779
+Switch and Data's Peering And Internet eXchanges,San Jose (California),United States,37.3356322,-121.8914346
+Switch and Data's Peering And Internet eXchanges,Seattle (Washington),United States,47.6499703,-122.3322085
+Switch and Data's Peering And Internet eXchanges,Vienna (Virginia),United States,38.9001381,-77.2668057
+Puerto Rico Bridge Initiative (PRBI),San Juan,Puerto Rico,18.4663338,-66.1057217
+PTT Metro,Belo Horizonte,Brazil,-19.862955,-43.9577552
+PTT Metro,Brasília,Brazil,-15.7801482,-47.9291698
+PTT Metro,Curitiba,Brazil,-25.4399199,-49.2382569
+PTT Metro,Florianópolis,Brazil,-27.5938645,-48.4929681
+PTT Metro,Fortaleza,Brazil,-3.779738,-38.5428287
+PTT Metro,Londrina,Brazil,-23.2924626,-51.1734299
+PTT Metro,Porto Alegre,Brazil,-29.9943404,-51.1711224
+PTT Metro,Rio de Janeiro,Brazil,-22.9035393,-43.2095869
+PTT Metro,Salvador de Bahia,Brazil,-12.9972129,-38.508839
+PTT Metro,São Paulo,Brazil,-23.6827077,-46.6499127
+NAP do Brasil,São Paulo,Brazil,-23.6827077,-46.6499127
+PTT Moebius,Rio de Janeiro,Brazil,-22.9035393,-43.2095869
