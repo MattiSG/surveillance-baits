@@ -8,6 +8,7 @@
 		<meta name="description" content="">
 		<meta name="author" content="Matti Schneider">
 
+		<link rel="stylesheet" type="text/css" href="css/mapDefaults.css"/>
 		<link rel="stylesheet" type="text/css" href="css/main.css"/>
 
 		<script src="js/lib/d3.js" language="javascript" type="text/javascript"></script>
@@ -15,115 +16,15 @@
 
 	<body>
 		<header>
+			<h1>State Surveillance Baits</h1>
+			<h2>If we can't find the beast, studying its preys is the best way to know where it lives.</h2>
 		</header>
 
 		<div id="main" role="main">
 		</div>
 
 <!-- 		<object id="map" data="blankmap.svg" width="100%" height="100%" type="image/svg+xml"></object> -->
-		<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" height="415" width="940" viewBox="0 81.5 2711.3 1196.7">
-			<style type="text/css">
-		/*
-		 * Below are Cascading Style Sheet (CSS) definitions in use in this file,
-		 * which allow easily changing how countries are displayed.
-		 *
-		 */
-
-		/*
-		 * circles around small countries
-		 *
-		 * Change opacity to 1 to display all circles.
-		 *
-		 */
-		.circlexx
-		{
-			 opacity:0;
-			 fill:#E0E0E0;
-			 stroke:black;
-			 stroke-width:0.5;
-		}
-
-		/*
-		 * Smaller circles around French DOMs and Chinese SARs
-		 *
-		 * Change opacity to 1 to display all subnational circles.
-		 *
-		 */
-		.subxx
-		{
-			 opacity:0;
-			 stroke-width:0.3;
-		}
-
-		/*
-		 * land
-		 */
-		.landxx
-		{
-			 fill: #E0E0E0;
-			 stroke:#fff;
-			 stroke-width:0.5;
-		}
-
-		/*
-		 * Styles for coastlines of islands with no borders
-		 */
-		.coastxx
-		{
-			 stroke-width: 0.3;
-		}
-
-		/*
-		 * Additional style rules
-		 *
-		 * The following are examples of colouring countries.  You can substitute these with your own styles to colour the countries on the map.
-		 *
-		 * Color a few countries:
-		 *
-		 * .gb, .au, .nc
-		 * {
-		 *    fill:       #ff0000;
-		 * }
-		 *
-		 * Color a few small country circles (and the countries):
-		 *
-		 * .ms, .ky
-		 * {
-		 *    opacity:    1;
-		 *    fill:       #ff0000;
-		 * }
-		 *
-		 */
-
-		/*
-		 * Antarctica
-		 */
-		.aq
-		{
-			 fill:#e6e6e6;
-		}
-
-		/*
-		 * Sea
-		 */
-		.ocean
-		{
-			 opacity: 1;
-			 color: #000;
-			 fill:#fff;
-			 stroke:#000;
-			 stroke-width:0.5;
-			 stroke-miterlimit:1;
-		}
-
-		.lake
-		{
-			 fill:white;
-			 fill-opacity:1;
-			 stroke:none;
-		}
-
-		</style>
+		<svg id="map" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" height="415" width="940" viewBox="0 81.5 2711.3 1196.7">
 			<rect class="ocean" y="81.5" width="100%" height="100%" id="ocean"/>
 			<g id="ge" class="landxx ge" transform="translate(-0.120074, -0.025157)">
 				<path d="M 1554.4563,384.69355 C 1554.4814,380.82973 1562.4346,384.37937 1563.9533,385.04455 C 1565.7568,385.83447 1567.1629,386.43921 1569.2419,386.0363 C 1570.2222,385.84633 1571.0196,385.67272 1572.2003,386.36255 C 1572.6399,386.61938 1574.1203,386.19375 1574.9163,386.65255 C 1576.7296,387.69777 1578.2604,388.38867 1579.0403,388.88555 C 1579.3853,389.10534 1580.1936,389.23467 1581.2716,390.34036 C 1581.9646,391.05109 1580.9845,390.6163 1581.8305,390.9583 C 1583.9755,391.8233 1587.1943,388.15636 1588.5873,391.03836 C 1589.0474,389.16053 1591.0162,390.51017 1591.3633,390.69355 C 1591.7383,391.03155 1592.0483,391.45017 1592.5473,391.62317 C 1593.3563,391.90317 1594.9943,391.36355 1595.4043,392.55855 C 1595.7023,393.42855 1594.7013,394.0743 1595.5703,394.8303 C 1596.9103,395.9963 1598.5623,395.98355 1600.0473,396.63355 C 1602.4373,397.67855 1598.8647,398.42366 1600.0303,399.79955 C 1600.7538,400.65355 1604.0841,402.01055 1603.8793,403.12055 C 1603.4222,405.59841 1600.5823,403.08748 1599.8323,403.36048 C 1597.8253,404.09248 1596.6765,401.78974 1594.7945,401.42074 C 1594.0395,401.27274 1593.3233,401.46655 1592.7633,401.92955 C 1592.2353,402.36655 1590.7833,402.86455 1591.0363,403.19955 C 1589.8083,403.28455 1588.5813,403.03955 1587.3513,403.11755 C 1586.0663,403.19955 1584.9803,403.77755 1583.6483,403.77255 C 1582.3593,403.76855 1581.8204,403.61084 1580.7292,403.48889 C 1580.5375,403.46746 1578.867,403.55341 1579.1536,402.9189 C 1579.3405,402.5051 1579.1782,402.13251 1578.7377,402.23857 C 1578.6134,402.24991 1576.9814,400.41884 1576.0553,400.67755 C 1576.6943,399.25155 1574.4935,400.14924 1574.2601,401.0308 C 1574.0221,401.92956 1571.1193,400.92768 1570.3783,400.74128 C 1569.8567,400.83428 1569.8381,401.70832 1568.9513,401.22855 C 1568.5137,400.99177 1567.6814,400.47602 1567.2643,400.6946 C 1567.1983,400.54646 1567.3552,400.37211 1567.5513,399.84855 C 1568.1508,398.24787 1568.8383,397.31455 1567.7233,395.73955 C 1566.6613,394.24055 1566.5193,392.29655 1565.4843,390.78155 C 1564.6273,389.52655 1563.0593,389.65955 1562.1483,388.46455 C 1561.2963,387.34555 1559.4993,387.18855 1558.2523,387.00855 C 1556.5203,386.75755 1556.1013,384.92755 1554.4563,384.69355" id="ge-"/>
@@ -2682,6 +2583,11 @@
 		</section>
 
 		<footer>
+			<article id="presentation">
+				<p>This visualization was made by <a href="http://mattischneider.fr">Matti Schneider</a> during the <a href="2013.euhackathon.eu/">Hack4YourRights</a> 2013 EU Hackathon. It aims at answering the question “<strong>How does government surveillance look like around the world?</strong>”.<p>
+				<p>State surveillance is an activity in which governments don’t often take pride nowadays. As such, and as <a href="https://en.wikipedia.org/wiki/Edward_Snowden">Snowden</a> proved by contrast with the months preceding his revelations, its full extent is impossible to measure.</p>
+				<p>Based on that consideration, instead of trying to visualize surveillance itself, an endless pursuit, the best way to get a grasp of its extent is probably to visualize its possible targets.</p>
+			</article>
 		</footer>
 
 		<script type="text/javascript">
