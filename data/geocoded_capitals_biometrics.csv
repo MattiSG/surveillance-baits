@@ -1,0 +1,68 @@
+street;country;country;capital;lat;lng;Accuracy;NbAdrReturned;Error/Address;Code
+1;United Arab Emirates;United Arab Emirates;Abu Dhabi;24.4377778;54.4077778;0;8;Jazirat Abu Zaby - Abou Dabi - Émirats arabes unis;200
+1;Argentina;Argentina;Buenos Aires;-34.6961861;-58.4437523;6;11;Camarero, Villa Fiorito, Province de Buenos Aires, Argentine;200
+1;Austria;Austria;Vienna;48.1851718;16.3115963;4;5;Gardezimmer, 1130 Vienne, Autriche;200
+1;Australia;Australia;Canberra;-35.3004601;149.1366602;6;1;1, Parkes Place, Canberra Territoire de la capitale australienne 2600, Australie;200
+1;Bosnia and Herzegovina;Bosnia and Herzegovina;Sarajevo;43.8249916;18.3299188;9;11;Aéroport international de Sarajevo (SJJ), Sarajevo, Bosnie-Herzégovine;200
+1;Belgium;Belgium;Brussels;50.8438477;4.3605118;8;1;1, Rue Baron Horta 13, 1000 Bruxelles, Belgique;200
+1;Bulgaria;Bulgaria;Sofia;42.7269093;23.5567529;6;1;1;200
+1;Brazil;Brazil;Brasilia;-15.7551482;-47.8668003;6;7;Via Scen Trecho 1 - Brasília, Brasilia - District fédéral, 70800-110, Brésil;200
+1;Botswana;Botswana;Gaborone;-24.6106771;25.9214563;6;5;A 1, Gaborone, Botswana;200
+1;Belarus;Belarus;Minsk;53.9026613;27.5638482;8;1;1, Minsk, Biélorussie;200
+1;Canada;Canada;Ottawa;45.322778;-75.6680455;5;3;#1, Ottawa International Airport (YOW), Ottawa, ON K1V 9B2, Canada;200
+1;Central African Republic;Central African Republic;Bangui;4.4659119;18.5142262;6;1;RN 1, Bangui, République centrafricaine;200
+1;Switzerland;Switzerland;Berne;46.9527552;7.3967381;6;2;1, Berne, Suisse;200
+1;China;China;Beijing;39.7341745;116.3673407;6;10;1st Alley, District de Daxing, Pékin, République populaire de Chine;200
+1;Cyprus;Cyprus;Nicosia;35.2124191;33.3420676;6;10;1. Sokak, Nicosie;200
+1;Germany;Germany;Berlin;52.4944453;13.2909256;6;4;1, 10711 Berlin, Allemagne;200
+1;Denmark;Denmark;Copenhagen;55.6867459;12.5616929;9;12;The Copenhagen Lakes, Peblinge Dossering 6, 2200 Copenhague, Danemark;200
+1;Dominican Republic;Dominican Republic;Santo Domingo;18.4827699;-69.9290285;6;7;Expreso John F. Kennedy, Saint Domingue, République dominicaine;200
+1;Algeria;Algeria;Algiers;36.7237099;3.0909173;6;6;Rue Ali Alliche, Alger, Algérie;200
+1;Estonia;Estonia;Tallinn;59.4244217;24.789064;6;1;1, Estonie;200
+1;Spain;Spain;Madrid;40.4480747;-3.6928326;8;4;1, Paseo de la Castellana, 85, 28046 Madrid, Espagne;200
+1;Finland;Finland;Helsinki;60.2325651;25.0474843;8;1;1, 00790 Helsinki, Finlande;200
+1;France;France;Paris;48.8623542;2.3429009;4;10;1, 75001 Paris, France;200
+1;United Kingdom;United Kingdom;London;51.6223439;-0.0594649;8;3;1, District londonien d'Enfield, Londres N9 0TZ, Royaume-Uni;200
+1;Georgia;Georgia;Tbilisi;41.6911081;44.8039862;8;1;1, Tbilissi, Géorgie;200
+1;Greenland;Greenland;Nuuk;64.1715714;-51.7347935;9;3;Niuernermik Ilinniarfik, Nuuk, Aqqusinersuaq 18, Nuuk 3900, Groenland;200
+1;Greece;Greece;Athens;38.0073896;23.7139405;6;5;Aftokinitodromos 1;200
+1;Croatia;Croatia;Zagreb;45.7789446;15.9674269;5;1;Pav. 1, Zagrebački Velesajam, 10000, Zagreb, Croatie;200
+1;Hungary;Hungary;Budapest;47.461434;18.9981659;6;1;Budapest, 1, Hongrie;200
+1;Indonesia;Indonesia;Jakarta;-6.1271129;106.826793;8;1;Jalan Karang Bolong 2 No.1, Pademangan, North Jakarta City, Jakarta 14430, Indonésie;200
+1;Ireland;Ireland;Dublin;53.3498053;-6.2603097;4;1;Dublin, Irlande;200
+1;Isle of Man;Isle of Man;Douglas;54.1720992;-4.4783791;9;1;Isle of Man College, Holmefield Rd, Douglas IM2 6, Île de Man;200
+1;Iran;Iran;Tehran;35.6936955;51.2567356;6;9;1st, Téhéran, Iran;200
+1;Iceland;Iceland;Reykjavik;64.1232076;-21.9249054;9;1;Université de Reykjavik, Menntavegur 1, 101 Reykjavík, Islande;200
+1;Italy;Italy;Rome;41.9001371;12.5052915;4;1;1, 00185 Rome, Italie;200
+1;Kazakhstan;Kazakhstan;Astana;51.178876;71.398652;6;10;Stepan Razin Lane №1, Astana, Kazakhstan;200
+1;Lithuania;Lithuania;Vilnius;54.7211245;25.3808431;6;11;Juodvarnių Sodų 1-oji gatvė, Vilnius 10236, Lituanie;200
+1;Luxembourg;Luxembourg;Luxembourg;49.632489;6.175241;9;10;Hôpital Quai 1, 2540 Luxembourg;200
+1;Latvia;Latvia;Riga;56.9470334;24.1064698;9;1;Museum of the Occupation of Latvia, Latviešu strēlnieku laukums 1, Centra rajons, Riga, LV-1050, Lettonie;200
+1;Morocco;Morocco;Rabat;33.9620342;-6.8505112;4;8;Secteur 1, Rabat, Maroc;200
+1;Moldova;Moldova;Chisinau;46.9974329;28.8077754;8;1;1, Chișinău, Moldavie;200
+1;Montenegro;Montenegro;Podgorica;42.4321625;19.2947437;6;5;1. Maja, Podgorica, Monténégro;200
+1;Mauritania;Mauritania;Nouakchott;18.088903;-15.9691141;9;4;Presidence de l'Universite de Nouakchott, Presidence de l'Universite de Rue Alioune, Nouakchott, Mauritanie;200
+1;Malta;Malta;Valletta;35.895235;14.508488;9;1;Valletta 1, La Valette, Malte;200
+1;Malaysia;Malaysia;Kuala Lumpur;3.1525238;101.7110995;4;1;Kuala Lumpur, 56100 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaisie;200
+1;Nigeria;Nigeria;Abuja;9.0144465;7.5634588;8;1;1, Abuja, Nigeria;200
+1;Netherlands;Netherlands;Amsterdam;52.3386316;4.8710324;4;7;1, 1082 Amsterdam, Pays-Bas;200
+1;Norway;Norway;Oslo;59.9201373;10.770986;9;11;Natural History Museum (Naturhistorisk museum), Sars' gate 1, 0562 Oslo, Norvège;200
+1;New Zealand;New Zealand;Wellington;-41.2835899;174.7735303;6;10;State Highway 1, Wellington, 6011, Nouvelle-Zélande;200
+1;Poland;Poland;Warsaw;52.1720072;20.9717475;9;9;Warsaw Chopin Airport (WAW), Żwirki i Wigury 1, Varsovie, Pologne;200
+1;Portugal;Portugal;Lisbon;38.6998192;-9.2040128;6;5;Rua 1, 1400 Lisbonne, Portugal;200
+1;Qatar;Qatar;Doha;25.2607699;51.4920884;6;1;1, Doha, Qatar;200
+1;Réunion;Réunion;Saint-Denis;-20.8832052;55.4498149;9;1;L Artotheque, Rue Roland Garros, Saint-Denis, Réunion;200
+1;Romania;Romania;Bucharest;44.4917649;26.0487684;4;9;Sector 1, Bucarest, Roumanie;200
+1;Serbia;Serbia;Belgrade;44.8351283;20.3599041;8;1;1, Grmeč, Belmax Center, Belgrade, Serbie;200
+1;Russia;Russia;Moscow;55.7469772;37.6053932;4;1;1, Moscou, Russie;200
+1;Saudi Arabia;Saudi Arabia;Riyadh;24.6537994;46.6836632;9;5;Pakistan International School, 3797 Prince Fahd Bin Salman Road, An Nasiriyah, Riyad 12732, Arabie saoudite;200
+1;Sweden;Sweden;Stockholm;59.325798;18.0698543;4;1;1, Södermalm, Stockholm, Suède;200
+1;Singapore;Singapore;Singapur;1.2939723;103.8569112;4;7;1, Singapour;200
+1;Slovenia;Slovenia;Ljubljana;46.0680471;14.5428278;1;1;1, BTC City Ljubljana, 1000 Ljubljana, Slovénie;200
+1;Slovakia;Slovakia;Bratislava;48.1458992;17.1071342;4;1;Bratislava, Slovaquie;200
+1;Somalia;Somalia;Mogadishu;2.042685;45.3129317;9;1;Mogadishu University - Postgraduate Program, Mogadiscio, Somalie;200
+1;Togo;Togo;Lome;6.1303419;1.2136626;9;9;SPT Societé des Postes du Togo, Ave Nicolas Grunitsky, Lome, Togo;200
+1;Thailand;Thailand;Bangkok;13.8561687;100.5851996;6;4;1, Bangkok, Thaïlande;200
+1;United States;United States;Washington;47.8773419;-122.212325;8;11;13300 Washington 527, A, Mill Creek, État de Washington 98012, États-Unis;200
+1;Uzbekistan;Uzbekistan;Tashkent;41.3323878;69.1624653;6;1;Tashkent Ring Automobile Road, Tachkent, Ouzbékistan;200
+1;Venezuela;Venezuela;Caracas;10.4474617;-66.9232541;6;3;Autopista Valle - Coche, Caracas, Venezuela;200
