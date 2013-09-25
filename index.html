@@ -37,11 +37,11 @@
 			<article>
 				<img class="key" src="svg/fingerprint_noun.svg"/>
 				<h3>Biometric data collection</h3>
-				<p>Countries that deliver <a href="https://en.wikipedia.org/wiki/Biometric_passport" target="_blank">biometric passports</a> for their citizens collect face scans, fingerprints and/or iris scans. That data is thus available to the administration.</p>
+				<p>Countries that deliver <a href="https://en.wikipedia.org/wiki/Biometric_passport" target="_blank">biometric passports</a> for their citizens collect at least high-resolution face scans, usually fingerprints and even iris scans. That data is thus available to the administration.</p>
 			</article>
 
 			<article>
-				<img class="key" src="http://cdn.leafletjs.com/leaflet-0.6.4/images/marker-icon.png"/>
+				<img class="key" src="svg/exchange_fat.svg"/>
 				<h3>Internet Exchange Points</h3>
 				<p><a href="https://en.wikipedia.org/wiki/Internet_exchange_point" target="_blank">Internet exchange points</a> (IX) are critical physical infrastructure through which international internet communications transit. For a country willing to wiretap such data, having IX on its ground is a great <a href="http://rt.com/news/uk-germany-wiretapping-criticism-201/" class="example">surveillance opportunity</a>.</p>
 			</article>
@@ -71,21 +71,18 @@
 				attribution: '&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
 			}).addTo(map);
 
-			L.geoJson(ix, {
-				onEachFeature: function(feature, layer) {
-					var legend = '<h3>Internet Exchange point</h3>'
-								 + '<h4>' + feature.properties.name + ' (' + feature.properties.city + ')</h4>'
-								 + '<p>Internet Exchange points (IX) are critical nodes in the Internet infrastructure. The amounts of data that transit through them give the countries in which they are built large wiretapping abilities.</p>';
-
-					layer.bindPopup(legend);
-				}
-			}).addTo(map);
-
 			var biometricIcon = L.icon({
 				iconUrl: 'svg/fingerprint_noun.svg',
 				iconSize: [20, 20],
 				iconAnchor: [10, 10],
 				popupAnchor: [0, -10]
+			});
+
+			var ixIcon = L.icon({
+				iconUrl: 'svg/exchange_fat.svg',
+				iconSize: [16, 16],
+				iconAnchor: [8, 8],
+				popupAnchor: [0, -8]
 			});
 
 			L.geoJson(biometrics, {
@@ -96,6 +93,19 @@
 					var legend = '<h3>Country collecting biometric information</h3>'
 								 + '<p>Countries that deliver biometric passports, such as <strong>' + feature.properties.country + '</strong>, collect at least a high-resolution face scan, usually fingerprints and sometimes iris scans.</p>'
 								 + '<p>Such accumulated data allows tracking through CCTV or any other automated detection means.</p>';
+
+					layer.bindPopup(legend);
+				}
+			}).addTo(map);
+
+			L.geoJson(ix, {
+				pointToLayer: function(feature, latlng) {
+					return L.marker(latlng, { icon: ixIcon });
+				},
+				onEachFeature: function(feature, layer) {
+					var legend = '<h3>Internet Exchange point</h3>'
+								 + '<h4>' + feature.properties.name + ' (' + feature.properties.city + ')</h4>'
+								 + '<p>Internet Exchange points (IX) are critical nodes in the Internet infrastructure. The amounts of data that transit through them give the countries in which they are built large wiretapping abilities.</p>';
 
 					layer.bindPopup(legend);
 				}
