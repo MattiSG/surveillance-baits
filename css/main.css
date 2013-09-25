@@ -1,6 +1,6 @@
 body {
-	color: #FDFDFD;
-	background-color: #131313;
+	color: #FDF6CA;
+	background-color: #231F20;
 	font-family: "TeX Gyre Adventor";
 }
 
@@ -23,8 +23,8 @@ header h2 {
 
 footer {
 	text-align: center;
-	border-top: 1px dotted #EDEDED;
-	color: #EDEDED;
+	border-top: 1px dotted #E3D8A2;
+	color: #E3D8A2;
 }
 
 footer article {
@@ -47,7 +47,9 @@ footer article {
 .colorKey, .key {
 	float: left;
 	margin-right: .5em;
-	margin-top: .4em;
+	margin-top: .15em;
+	max-width: 1.5em;
+	max-height: 1.5em;
 }
 
 .colorKey {
