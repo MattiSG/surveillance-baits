@@ -24,14 +24,10 @@
 	<body>
 		<header>
 			<h1>State Surveillance Baits</h1>
-			<h2>If we can't find the beast, better find its preys.</h2>
+			<h2>If we can't find the beast, better find its preys. <a id="locate" href="#map">Could your government be tempted?</a></h2>
 		</header>
 
-		<div id="main" role="main">
-		</div>
-
 		<div id="map"></div>
-
 
 		<section id="legend">
 			<article>
@@ -159,6 +155,10 @@
 					layer.bindPopup(legend);
 				}
 			}).addTo(map);
+
+			document.getElementById('locate').addEventListener('click', function() {
+				map.locate({ setView: true, maxZoom: 8 });
+			});
 		//]]>
 		</script>
 	</body>
