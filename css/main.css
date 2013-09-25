@@ -2,6 +2,7 @@ body {
 	color: #FDF6CA;
 	background-color: #231F20;
 	font-family: "TeX Gyre Adventor";
+	margin: 0;
 }
 
 a {
@@ -21,10 +22,16 @@ header h2 {
 	float: right;
 }
 
+header, #legend {
+	padding: 1em;
+}
+
 footer {
 	text-align: center;
 	border-top: 1px dotted #E3D8A2;
 	color: #E3D8A2;
+	margin-top: 2em;
+	padding-top: 2em;
 }
 
 footer article {
