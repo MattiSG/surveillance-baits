@@ -44,6 +44,7 @@
 				<img class="key" src="svg/exchange_fat.svg"/>
 				<h3>Internet Exchange Points</h3>
 				<p><a href="https://en.wikipedia.org/wiki/Internet_exchange_point" target="_blank">Internet exchange points</a> (IX) are critical physical infrastructure through which international internet communications transit. For a country willing to wiretap such data, having IX on its ground is a great <a href="http://rt.com/news/uk-germany-wiretapping-criticism-201/" class="example">surveillance opportunity</a>.</p>
+				<p>All IX do not have the same size, and the bigger they are the more interesting they are for tapping.</a>
 			</article>
 		</section>
 
@@ -80,9 +81,16 @@
 
 			var ixIcon = L.icon({
 				iconUrl: 'svg/exchange_fat.svg',
-				iconSize: [16, 16],
-				iconAnchor: [8, 8],
-				popupAnchor: [0, -8]
+				iconSize: [14, 14],
+				iconAnchor: [7, 7],
+				popupAnchor: [0, -7]
+			});
+
+			var ixBigIcon = L.icon({
+				iconUrl: 'svg/exchange_fat.svg',
+				iconSize: [22, 22],
+				iconAnchor: [11, 11],
+				popupAnchor: [0, -11]
 			});
 
 			L.geoJson(biometrics, {
@@ -98,9 +106,23 @@
 				}
 			}).addTo(map);
 
+			var ixMarkers = {};
 			L.geoJson(ix, {
+				filter: function(feature, layer) {
+					var city = feature.properties.city;
+						preexistingMarker = ixMarkers[city];
+					if (! preexistingMarker)
+						return true;
+
+					preexistingMarker.setIcon(ixBigIcon);
+
+					return false;
+				},
 				pointToLayer: function(feature, latlng) {
-					return L.marker(latlng, { icon: ixIcon });
+					var result = L.marker(latlng, { icon: ixIcon }),
+						city = feature.properties.city;
+					ixMarkers[city] = result;
+					return result;
 				},
 				onEachFeature: function(feature, layer) {
 					var legend = '<h3>Internet Exchange point</h3>'
