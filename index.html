@@ -12,13 +12,16 @@
 		<link rel="stylesheet" type="text/css" href="fonts/BebasNeue.css"/>
 		<link rel="stylesheet" type="text/css" href="fonts/texgyreadventor-regular.css"/>
 		<link rel="stylesheet" type="text/css" href="fonts/texgyreadventor-bold.css"/>
-		<link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.6.4/leaflet.css" />
+		<link rel="stylesheet" type="text/css" href="http://cdn.leafletjs.com/leaflet-0.6.4/leaflet.css" />
+		<link rel="stylesheet" type="text/css" href="https://api.tiles.mapbox.com/mapbox.js/v1.6.2/mapbox.css" />
 
 		<!--[if lte IE 8]>
 			<link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.6.4/leaflet.ie.css" />
 		<![endif]-->
 
 		<script src="http://cdn.leafletjs.com/leaflet-0.6.4/leaflet.js"></script>
+		<script src="https://api.tiles.mapbox.com/mapbox.js/v1.6.2/mapbox.js"></script>
+
 	</head>
 
 	<body>
@@ -71,13 +74,8 @@
 				minZoom: 2,
 				maxZoom: 10
 			}).setView([40, -20], 3);
-
-			L.tileLayer('http://{s}.tile.cloudmade.com/{key}/{styleId}/256/{z}/{x}/{y}.png', {
-				attribution: '&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors',
-				key: 'ed104e26836e4c03a806356ca070ef06',
-				// styleId: 999	// midnight commander
-				styleId: 109071	// BumbleBee
-			}).addTo(map);
+			
+			L.mapbox.tileLayer('mattisg.i1bjl3a1').addTo(map);
 
 			var biometricIcon = L.icon({
 				iconUrl: 'svg/fingerprint_noun.svg',
